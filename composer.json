@@ -1,0 +1,13 @@
+{
+    "name": "dinushchathurya/srilankan-gn-divisions",
+    "description": "This includes all the Srilankan Grama Niladhari Divisions",
+    "type": "package",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "dinushchathurya",
+            "email": "dinushchathurya21@gmail.com"
+        }
+    ],
+    "require": {}
+}
