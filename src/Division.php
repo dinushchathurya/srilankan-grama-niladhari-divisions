@@ -134,8 +134,7 @@ class Division {
                     'Malabe West-(මාල‍බේ බටහිර)',
                     'Thalangama North B-(තලංගම උතුර B)',
                     'Thalahena South-(තලාහේන දකුණ)',
-                )
-        ),
-    )
-
+                ),
+        )
+    );
 }
