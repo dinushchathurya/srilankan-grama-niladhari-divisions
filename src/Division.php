@@ -353,7 +353,20 @@ class Division {
                     'Ihala Bope-(ඉහළ බෝපේ)',
                     'Gurulana-(ගුරුලාන)',
                     'Udagama-(උඩගම)',
-                    'Dabora-(දඹෝර)'
+                    'Dabora-(දඹෝර)',
+                    'Mirihana North-(මිරිහාන උතුර)',
+                    'Madiwela-(මාදිවෙල)',
+                    'Thalawathugoda West-(තළවතුගොඩ බටහිර)',
+                    'Thalawathugoda East-(තළවතුගොඩ නැගනහිර)',
+                    'Kalalgoda-(කළල්ගොඩ)',
+                    'Kottawa East-(කොට්ටාව නැගනහිර)',
+                    'Rukmale West-(රුක්මළේ බටහිර)',
+                    'Rukmale East A-(රැක්මළේ නැගනහිර ඒ)',
+                    'Rukmale East B-(රුක්මළේ නැගනහිර බි)',
+                    'Liyanagoda-(ලියනගොඩ)',
+                    'Kottawa North-(කොට්ටාව උතුර)',
+                    'Depanama-(දෙපානම)',
+                    'Polwatta-(පොල්වත්ත)',
                 ),
         )
     );
