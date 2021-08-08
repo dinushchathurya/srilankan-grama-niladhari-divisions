@@ -22,7 +22,7 @@ class Division {
 
     public static $Division = array(
 
-        'Western' => array(
+        'Colombo' => array(
             'Colombo' =>
                 array(
                     'Sammanthranapura-(සම්මන්ත්‍රණපුර)',
@@ -59,7 +59,10 @@ class Division {
                     'Maligakanda-(මාලිගාකන්ද)',
                     'Maradana-(මරදාන)',
                     'Ibbanwala-(ඉබ්බන්වල)',
-                    'Wekanda-(වෑකන්ද)',
+                    'Wekanda-(වෑකන්ද)'
+            ),
+            'Kolonnawa' =>
+                array(
                     'Wathulla-(වදුල්ල)',
                     'Sedawatta-(සේදවත්ත)',
                     'Halmulla-(හල්මුල්ල)',
@@ -105,7 +108,10 @@ class Division {
                     'Gajabapura-(ගජබාපුර)',
                     'Madinnagoda-(මාදින්නාගොඩ)',
                     'Elhena-(ඇල්හේන)',
-                    'Dodamgahahena-(දොඩමිගහහේන)',
+                    'Dodamgahahena-(දොඩමිගහහේන)'
+            ),
+            'Kaduwela' =>
+                array(
                     'Welivita-(වැලිවිට)',
                     'Raggahawatta-(රග්ගහවත්ත)',
                     'Hewagama-(හේවාගම)',
@@ -162,7 +168,10 @@ class Division {
                     'Wickramasinghapura-(වික්‍රමසිංහපුර)',
                     'Wellangiriya-(වැල්ලන්ගිරිය)',
                     'Hokandara South-(හෝකන්දර දකුණ)',
-                    'Athurugiriya South-(අතුරුගිරිය දකුණ)',
+                    'Athurugiriya South-(අතුරුගිරිය දකුණ)'
+            ),
+            'Homagama' =>
+                array(
                     'Jalthara-(ජල්තර)',
                     'Henpita-(හේන්පිට)',
                     'Atigala West-(ආටිගල බස්නාහිර)',
@@ -239,7 +248,10 @@ class Division {
                     'Ambalangoda-(අම්බලන්ගොඩ)',
                     'Heraliyawala-(හෙරලියාවල)',
                     'Palagama-(පාලගම)',
-                    'Weniwelkola-(වෙනිවැල්කොල)',
+                    'Weniwelkola-(වෙනිවැල්කොල)'
+            ),
+            'Hanwella' =>
+                array(
                     'Bollathawa-(බොල්ලතාව)',
                     'Kanampella West-(කනම්පැල්ල බස්නාහිර)',
                     'Kanampella East-(කනම්පැල්ල නැගෙනහිර)',
@@ -307,7 +319,10 @@ class Division {
                     'Kudakanda-(කුඩාකන්ද)',
                     'Thunnana West-(තුන්නාන බටහිර)',
                     'Mawathagama West-(මාවතගම බටහිර)',
-                    'Mawathagama East-(මාවතගම නැගනහිර)',
+                    'Mawathagama East-(මාවතගම නැගනහිර)'
+            ),
+            'Padukka' =>
+                array(
                     'Pinnawala North-(පින්නවල උතුර)',
                     'Pinnawala South-(පින්නවල දකුණ)',
                     'Waga North-(වග උතුර)',
@@ -353,7 +368,10 @@ class Division {
                     'Ihala Bope-(ඉහළ බෝපේ)',
                     'Gurulana-(ගුරුලාන)',
                     'Udagama-(උඩගම)',
-                    'Dabora-(දඹෝර)',
+                    'Dabora-(දඹෝර)'
+            ),
+            'Maharagama' =>
+                array(
                     'Mirihana North-(මිරිහාන උතුර)',
                     'Madiwela-(මාදිවෙල)',
                     'Thalawathugoda West-(තළවතුගොඩ බටහිර)',
@@ -367,6 +385,33 @@ class Division {
                     'Kottawa North-(කොට්ටාව උතුර)',
                     'Depanama-(දෙපානම)',
                     'Polwatta-(පොල්වත්ත)',
+                    'Pamunuwa-(පමුණුව)',
+                    'Thalapathpitiya-(තළපත්පිටිය)',
+                    'Pragathipura-(ප්‍රගතිපුර)',
+                    'Udahamulla East-(උඩහාමුල්ල නැගනහිර)',
+                    'Udahamulla West-(උඩහමුල්ල බටහිර)',
+                    'Pathiragoda-(පති‍රගොඩ)',
+                    'Maharagama East-(මහරගම නැගනහිර)',
+                    'Maharagama West-(මහරගම බටහිර)',
+                    'Dambahena-(දඔහේන)',
+                    'Pannipitiya North-(පන්නිපිටිය උතුර)',
+                    'Kottawa West-(කොට්ටාව බටහිර)',
+                    'Kottawa South-(කොට්ටාව දකුණ)',
+                    'Malapalla West-(මාලපල්ල බටහිර)',
+                    'Malapalla East-(මාලපල්ල නැගෙනහිර)',
+                    'Makumbura North-(මාකුඹුර උතුර)',
+                    'Makumbura South-(මාකුඹුර දකුණ)',
+                    'Kottawa Town-(කොට්ටාව නගරය)',
+                    'Pannipitiya South-(පන්නිපිටිය දකුණ)',
+                    'Maharagama Town-(මහරගම නගරය)',
+                    'Godigamuwa South-(ගොඩිගමුව දකුණ)',
+                    'Godigamuwa South B-(ගොඩිගමුව දකුණ බි)',
+                    'Godigamuwa North-(ගොඩිගමුව උතුර)',
+                    'Wattegedara-(වත්තේගෙදර)',
+                    'Navinna-(නාවින්න)',
+                    'Wijerama-(විජේරාම)',
+                    'Gangodavila South B-(ගංගොඩවිල දකුණ බි)',
+                    'Jambugasmulla-(ජම්බුගස්මුල්ල)'
                 ),
         )
     );
