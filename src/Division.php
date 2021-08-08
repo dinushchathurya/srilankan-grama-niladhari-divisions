@@ -435,6 +435,29 @@ class Division {
                     'Gangodavila North-(ගංගොඩවිල උතුර)',
                     'Gangodavila South-(ගංගොඩවිළ දකුණ)',
                     'Gangodavila East-(ගංගොඩවිළ නැගනහිර)'
+                ),
+            'Thimbirigasyaya' =>
+                array(
+                    'Kollupitiya-(කොල්ලුපිටිය)',
+                    'Bambalapitiya-(බම්බලපිටිය)',
+                    'Kurunduwatta-(කුරුදුවත්ත)',
+                    'Kuppiyawatta West-(කුප්පියාවත්ත බටහිර)',
+                    'Kuppiyawatta East-(කුප්පියාවත්ත නැගෙනහිර)',
+                    'Dematagoda-(දෙමටගොඩ)',
+                    'Wanathamulla-(වනාතමුල්ල)',
+                    'Borella North-(බොරැල්ල උතුර)',
+                    'Borella South-(බොරැල්ල දකුණ)',
+                    'Gothamipura-(ගෝතමිපුර)',
+                    'Narahenpita-(නාරාහේන්පිට)',
+                    'Thimbirigasyaya-(තිඹිරිගස්යාය)',
+                    'Milagiriya-(මිලාගිරිය)',
+                    'Havelock Town-(හැවිලොක් නගරය)',
+                    'Kirula-(කිරැළ)',
+                    'Kirulapone-(කිරුළපන)',
+                    'Wellawatta North-(වැල්ලවත්ත උතුර)',
+                    'Wellawatta South-(වැල්ලවත්ත දකුණ)',
+                    'Pamankada West-(බටහිර පාමංකඩ)',
+                    'Pamankada East-(නැගෙනහිර පාමංකඩ)'
                 )
         )
     );
