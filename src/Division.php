@@ -458,6 +458,24 @@ class Division {
                     'Wellawatta South-(වැල්ලවත්ත දකුණ)',
                     'Pamankada West-(බටහිර පාමංකඩ)',
                     'Pamankada East-(නැගෙනහිර පාමංකඩ)'
+                ),
+            'Dehiwala-Mount Lavinia' =>
+                array(
+                    'Dehiwala-Mount Lavinia-(ශ්‍රී සරණංකර)',
+                    'Vilawala-(විලවල)',
+                    'Dutugemunu-(දුටුගැමුණු)',
+                    'Kohuwala-(කොහුවල)',
+                    'Kalubowila-(කළුබෝවිල)',
+                    'Hathbodhiya-(හත්බෝධිය)',
+                    'Galwala-(ගල්වල)',
+                    'Dehiwala West-(දෙහිවල බටහිර)',
+                    'Dehiwala East-(දෙහිවල නැගෙනහිර)',
+                    'Udyanaya-(උද්‍යානය)',
+                    'Nedimala-(නැඳිමාල)',
+                    'Malwatta-(මල්වත්ත)',
+                    'Jayathilaka-(ජයතිලක)',
+                    'Karagampitiya-(කරගම්පිටිය)',
+                    'Kawdana East-(නැගෙනහිර කව්ඩාන)'
                 )
         )
     );
