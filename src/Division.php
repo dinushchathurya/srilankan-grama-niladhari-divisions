@@ -60,7 +60,7 @@ class Division {
                     'Maradana-(මරදාන)',
                     'Ibbanwala-(ඉබ්බන්වල)',
                     'Wekanda-(වෑකන්ද)'
-            ),
+                ),
             'Kolonnawa' =>
                 array(
                     'Wathulla-(වදුල්ල)',
@@ -109,7 +109,7 @@ class Division {
                     'Madinnagoda-(මාදින්නාගොඩ)',
                     'Elhena-(ඇල්හේන)',
                     'Dodamgahahena-(දොඩමිගහහේන)'
-            ),
+                ),
             'Kaduwela' =>
                 array(
                     'Welivita-(වැලිවිට)',
@@ -169,7 +169,7 @@ class Division {
                     'Wellangiriya-(වැල්ලන්ගිරිය)',
                     'Hokandara South-(හෝකන්දර දකුණ)',
                     'Athurugiriya South-(අතුරුගිරිය දකුණ)'
-            ),
+                ),
             'Homagama' =>
                 array(
                     'Jalthara-(ජල්තර)',
@@ -249,7 +249,7 @@ class Division {
                     'Heraliyawala-(හෙරලියාවල)',
                     'Palagama-(පාලගම)',
                     'Weniwelkola-(වෙනිවැල්කොල)'
-            ),
+                ),
             'Hanwella' =>
                 array(
                     'Bollathawa-(බොල්ලතාව)',
@@ -320,7 +320,7 @@ class Division {
                     'Thunnana West-(තුන්නාන බටහිර)',
                     'Mawathagama West-(මාවතගම බටහිර)',
                     'Mawathagama East-(මාවතගම නැගනහිර)'
-            ),
+                ),
             'Padukka' =>
                 array(
                     'Pinnawala North-(පින්නවල උතුර)',
@@ -369,7 +369,7 @@ class Division {
                     'Gurulana-(ගුරුලාන)',
                     'Udagama-(උඩගම)',
                     'Dabora-(දඹෝර)'
-            ),
+                ),
             'Maharagama' =>
                 array(
                     'Mirihana North-(මිරිහාන උතුර)',
@@ -413,6 +413,29 @@ class Division {
                     'Gangodavila South B-(ගංගොඩවිල දකුණ බි)',
                     'Jambugasmulla-(ජම්බුගස්මුල්ල)'
                 ),
+            'Sri Jayawardanapura Kotte' =>
+                array(
+                    'Welikada West-(වැලිකඩ බටහිර)',
+                    'Welikada East-(වැලිකඩ නැගෙනහිර)',
+                    'Rajagiriya-(රාජගිරිය)',
+                    'Welikada North-(වැළිකඩ උතුර)',
+                    'Nawala West-(නාවල බටහිර)',
+                    'Koswatta-(කොස්වත්ත)',
+                    'Ethulkotte West-(ඇතුල්කෝට්ටේ බටහිර)',
+                    'Ethulkotte-(ඇතුල්කොට්ටේ)',
+                    'Pitakotte East-(පිටකොට්ටේ නැගෙනහිර)',
+                    'Pitakotte-(පිටකෝට්ටේ)',
+                    'Pitakotte West-(පිටකොට්ටේ බටහිර)',
+                    'Nawala East-(නාවළ නැගෙනහිර)',
+                    'Nugegoda West-(නුගේගොඩ බටහිර)',
+                    'Nugegoda West-(නුගේගොඩ බටහිර)',
+                    'Pagoda-(පා‍ගොඩ)',
+                    'Nugegoda-(නුගේගොඩ)',
+                    'Pagoda East-(පා‍ගොඩ නැගනහිර)',
+                    'Gangodavila North-(ගංගොඩවිල උතුර)',
+                    'Gangodavila South-(ගංගොඩවිළ දකුණ)',
+                    'Gangodavila East-(ගංගොඩවිළ නැගනහිර)'
+                )
         )
     );
 }
