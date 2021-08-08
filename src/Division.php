@@ -476,6 +476,22 @@ class Division {
                     'Jayathilaka-(ජයතිලක)',
                     'Karagampitiya-(කරගම්පිටිය)',
                     'Kawdana East-(නැගෙනහිර කව්ඩාන)'
+                ),
+            'Ratmalana' =>
+                array(
+                    'Mount Lavinia-(ගල්කිස්ස)',
+                    'Kawdana West-(කවුඩාන බටහිර)',
+                    'Watarappala-(වටරප්පල)',
+                    'Wathumulla-(වතුමුල්ල)',
+                    'Katukurunduwatta-(කටුකුරුඳුවත්ත)',
+                    'Attidiya North-(අත්තිඩිය උතුර)',
+                    'Attidiya South-(අත්තිඩිය දකුණ)',
+                    'Piriwena-(පිරිවෙන)',
+                    'Wedikanda-(වෙඩිකන්ද)',
+                    'Vihara-(විහාර)',
+                    'Rathmalana West-(රත්මලාන බටහිර)',
+                    'Rathmalana Eastරත්මලාන නැගෙනහිර)',
+                    'Kandawala-(කඳවල)',
                 )
         )
     );
