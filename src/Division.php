@@ -4,16 +4,16 @@ namespace Dinushchathurya\Division;
 
 class Division {
 
-    public static function getProvince(){
+    public static function getDistricts(){
         return array_keys(self::$Division);
     }
 
-    public static function getDistricts($province){
-        return array_keys(self::$Division[$province]);
+    public static function getDivisionalSecretariats($district){
+        return array_keys(self::$Division[$district]);
     }
 
     public static function getDivisions($division){
-        foreach(self::$Division as $province => $curDivision){
+        foreach(self::$Division as $district => $curDivision){
             if(in_array($division,array_keys($curDivision))){
                 return $curDivision[$division];
             }
