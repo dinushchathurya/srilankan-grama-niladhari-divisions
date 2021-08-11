@@ -1,6 +1,7 @@
 {
     "name": "dinushchathurya/srilankan-gn-divisions",
     "description": "This includes all the Srilankan Grama Niladhari Divisions",
+    "keywords": ["SriLankan GN Divisions", "SriLankan Grama Niladhari Divisions", "GN Divisions in SriLanka"],
     "type": "package",
     "license": "BSD-3-Clause",
     "authors": [
