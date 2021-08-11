@@ -2,13 +2,13 @@
 
 This includes all Srilankan Grama Niladhari Divisions
 
-### Installation
+# Installation
 
 via composer
 
 `composer require dinushchathurya/srilankan-gn-divisions`
 
-### Usage 
+# Usage 
 
 ```sh 
 use Dinushchathurya\Division\Division;
