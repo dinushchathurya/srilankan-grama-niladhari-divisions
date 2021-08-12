@@ -881,6 +881,14 @@ class Division {
                 'Balathawa-(බලතව)',
                 'Makura-(මාකුර)',
                 'Pottekanda-(පොත්තේකන්ද)',
+                'Bothale Iahalagama-(බෝතලේ ඉහලගම)',
+                'Adagalakanda-(ආදාගලකන්ද)',
+                'Ihala Halugama-(ඉහල හලුගම)',
+                'Kidiwala-(කිදිවල)',
+                'Pahala Halugama-(පහල හලුගම)',
+                'Meerigama-(මීරිගම)',
+                'Walawwatta-(වලව්වත්ත)',
+                'Thilinagama-(තිලිනගම)',
             )
         )
     );
