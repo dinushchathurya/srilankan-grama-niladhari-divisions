@@ -903,6 +903,9 @@ class Division {
                 'Imbulanwala-(ඉම්බුලන්වල)',
                 'Uduulla-(උඩුඋල්ල)',
                 'Gaspe-(ගස්පේ)',
+                'Banduragoda-(බාදුරාගොඩ)',
+                'Keppitiwalana-(කැප්පිටිවලාන)',
+                'Gaspe Pahalagama-(ගස්පෙ පහලගම)',
             )
         )
     );
