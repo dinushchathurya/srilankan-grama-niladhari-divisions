@@ -865,6 +865,22 @@ class Division {
                 'Kamarangawa-(කාමරන්ගාව)',
                 'Keenadeniya-(කීනදෙනිය)',
                 'Bothale Pahalagama North-(බොතලේ පහලගම උතුර)',
+                'Maweehena-(මාවිහේන)',
+                'Kurunduwatta-(කුරුදුවත්ත)',
+                'Purana Meerigama-(පුරාන මීරිගම)',
+                'Hakurukumbura-(හකුරුකුඹුර)',
+                'Mugurugampala-(මුගුරුගම්පල)',
+                'Vilwatta-(විල්වත්ත)',
+                'Thawalampitiya-(තවලම්පිටිය)',
+                'Bothale Pahalagama-(බෝතලේ පහලගම)',
+                'Bothale Pahalagama West-(බෝතලේ පහලගම බටහිර)',
+                'Bothale Medagama-(බෝතලේ මැදගම)',
+                'Bothale Pahalagama East-(බෝතලේ පහලගම නැගෙනහිර)',
+                'Thalagama East-(තලගම නැගෙනහිර)',
+                'Thalagama-(තලගම)',
+                'Balathawa-(බලතව)',
+                'Makura-(මාකුර)',
+                'Pottekanda-(පොත්තේකන්ද)',
             )
         )
     );
