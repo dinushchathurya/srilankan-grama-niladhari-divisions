@@ -906,6 +906,7 @@ class Division {
                 'Banduragoda-(බාදුරාගොඩ)',
                 'Keppitiwalana-(කැප්පිටිවලාන)',
                 'Gaspe Pahalagama-(ගස්පෙ පහලගම)',
+                'Galgana-(ගල්ගාන)',
             )
         )
     );
