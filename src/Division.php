@@ -902,6 +902,7 @@ class Division {
                 'Kosetadeniya-(කොස්ඇටදෙනිය)',
                 'Imbulanwala-(ඉම්බුලන්වල)',
                 'Uduulla-(උඩුඋල්ල)',
+                'Gaspe-(ගස්පේ)',
             )
         )
     );
