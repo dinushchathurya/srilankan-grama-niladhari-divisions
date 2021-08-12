@@ -889,6 +889,14 @@ class Division {
                 'Meerigama-(මීරිගම)',
                 'Walawwatta-(වලව්වත්ත)',
                 'Thilinagama-(තිලිනගම)',
+                'Vijayarajadahana-(විජයරජදහන)',
+                'Ihala Neligama-(නැලිගම ඉහළ)',
+                'Neligama Central-(නැලිගම මධ්‍යම)',
+                'Neligama-(නැලිගම)',
+                'Lindara-(ලින්දර)',
+                'Halugama-(හලුගම)',
+                'Siyambalagoda-(සියඔලාගොඩ)',
+                'Pahala Lindara-(පහල ලින්දර)',
             )
         )
     );
