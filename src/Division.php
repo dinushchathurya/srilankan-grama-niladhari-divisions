@@ -897,6 +897,11 @@ class Division {
                 'Halugama-(හලුගම)',
                 'Siyambalagoda-(සියඔලාගොඩ)',
                 'Pahala Lindara-(පහල ලින්දර)',
+                'Pohonnaruwa-(පොහොන්නරුව)',
+                'Indiparape-(ඉදිපරපේ)',
+                'Kosetadeniya-(කොස්ඇටදෙනිය)',
+                'Imbulanwala-(ඉම්බුලන්වල)',
+                'Uduulla-(උඩුඋල්ල)',
             )
         )
     );
