@@ -845,6 +845,26 @@ class Division {
                 'Aswennawatta West-(අස්වැන්නවත්ත බටහිර)',
                 'Weragodamulla-(වෙරගොඩමුල්ල)',
                 'Aluthepola East-(අළුතැපොල නැගෙනහිර)'
+            ),
+            'Mirigama' => array(
+                'Nalla-(නාල්ල)',
+                'Giriullagama-(ගිරිඋල්ලගම)',
+                'Loluwagoda-(ලෝලුවාගොඩ)',
+                'Delwala South-(දෙල්වල දකුණ)',
+                'Delwala-(දෙල්වල)',
+                'Loluwagoda South-(ලෝලුවාගොඩ දකුණ)',
+                'Madurupitiya-(මදුරුපිටිය)',
+                'Hapugahagedara-(හපුගහගෙදර)',
+                'Kadangamuwa-(කඳන්ගමුව)',
+                'Henegama-(හේනේගම)',
+                'Maladeniya-(මාලදෙණිය)',
+                'Kahadawa-(කහදව)',
+                'Kandalama-(කන්ඩලම)',
+                'Walbotale-(වල්බෝතලේ)',
+                'Perisyala-(පිරිස්යාල)',
+                'Kamarangawa-(කාමරන්ගාව)',
+                'Keenadeniya-(කීනදෙනිය)',
+                'Bothale Pahalagama North-(බොතලේ පහලගම උතුර)',
             )
         )
     );
