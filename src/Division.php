@@ -831,6 +831,20 @@ class Division {
                 'Dagonna South-(දාගොන්න දකුණ)',
                 'Hapuwalana South-(හපුවලාන දකුණ)',
                 'Hapuwalana-(හපුවලාන)',
+                'Bomugammana North-(බොමුගම්මන උතුර)',
+                'Bomugammana South-(බෝමුගම්මන දකුණ)',
+                'Pinnalanda-(පින්නලන්ද)',
+                'Divulapitiya-(දිවුලපිටිය)',
+                'Balagalla East-(බලගල්ල නැගෙනහිර)',
+                'Ullapola East-(උල්ලලපොල නැගෙනහිර)',
+                'Ullapola West-(උල්ලලපොල බටහිර)',
+                'Wewagedara-(වැවගෙදර)',
+                'Horagasmulla-(හොරගස්මුල්ල)',
+                'Aswennawatta East-(අස්වැන්නවත්ත නැගෙනහිර)',
+                'Hapuwalana North-(හපුවලාන උතුර)',
+                'Aswennawatta West-(අස්වැන්නවත්ත බටහිර)',
+                'Weragodamulla-(වෙරගොඩමුල්ල)',
+                'Aluthepola East-(අළුතැපොල නැගෙනහිර)'
             )
         )
     );
