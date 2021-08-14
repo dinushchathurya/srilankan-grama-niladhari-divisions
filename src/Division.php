@@ -923,7 +923,7 @@ class Division {
                 'Weweldeniya Pahalagama West-(වේවැල්දෙනිය පහලගම බටහිර)',
                 'Henepola-(හේනේපොල)',
                 'Palmada-(පල්මඩ)',
-                'Kal / Pallewela,kotakanda-(කල්/පල්ලේවෙල,කොටකන්ද	)',
+                'Kal / Pallewela,kotakanda-(කල්/පල්ලේවෙල,කොටකන්ද)',
                 'Raddelgoda-(රද්දෙල්ගොඩ)',
                 'Ihala Bokalagama-(ඉහළ බොකලගම)',
                 'Pahala Bokalagama-(පහල බොකලගම)',
@@ -932,6 +932,18 @@ class Division {
                 'Muddaragama-(මුද්දරගම)',
                 'Hanchapola-(හන්චපොල)',
                 'Hirikuluwa,Ganemulla,Dathgama-(හිරිකුළුව, ගණේමුල්ල, දෑත්ගම)',
+                'Pathagama-(පාතගම)',
+                'Borukgamuwa West-(බොරැක්ගමුව බටහිර)',
+                'Borukgamuwa-(බොරැක්ගමුව)',
+                'Pallewela-(පල්ලෙවෙල)',
+                'Weragoda / Kakkele	-(වේරගොඩ / කාක්කැලේ)',
+                'Hansagiriya-(හන්සගිරිය)',
+                'Welavilamulla North-(වැලවිලමුල්ල උතුර)',
+                'Welavilamulla-(වැලවිලමුල්ල)',
+                'Udawela-(උඩවෙල)',
+                'Hapitigama-(හාපිටිගම)',
+                'Makkanigoda North-(මක්කනිගොඩ උතුර)',
+                'Pahalawela-(පහලවෙල)',
             )
         )
     );
