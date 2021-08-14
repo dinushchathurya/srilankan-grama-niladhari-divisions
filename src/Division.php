@@ -956,6 +956,12 @@ class Division {
                 'Bolana-(බොලාන)',
                 'Mallehewa-(මල්ලැහැව)',
                 'Wabadamulla-(වෑබඩමුල්ල)',
+                'Weragoda-(වීරගොඩ)',
+                'Midellawala-(මිදෙල්ලවල)',
+                'Kendalanda-(කෙන්දලන්ද)',
+                'Nungamuwa-(නුන්ගමුව)',
+                'Uthuwambogahawatta-(උතුවම්බෝගහවත්ත)',
+                'Pahala Maligathenna-(පහළ මාලිගාතැන්න)',
             )
         )
     );
