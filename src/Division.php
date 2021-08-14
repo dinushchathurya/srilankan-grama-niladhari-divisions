@@ -907,6 +907,18 @@ class Division {
                 'Keppitiwalana-(කැප්පිටිවලාන)',
                 'Gaspe Pahalagama-(ගස්පෙ පහලගම)',
                 'Galgana-(ගල්ගාන)',
+                'Pelapitigama-(පෙලපිටිගන)',
+                'Elhena-(ඇල්හේන)',
+                'Ganegoda-(ගනේගොඩ)',
+                'Hiriwala-(හිරිවල)',
+                'Handurumulla-(හන්දුරුමුල්ල)',
+                'Pamunuwatta-(පමුණුවත්ත)',
+                'Ihala Lindara-(ලින්දර ඉහල)',
+                'Arukgoda-(අරුක්ගොඩ)',
+                'Madabavita-(මඩබාවිට)',
+                'Madabavita Ihalagama-(මඩබාවිට ඉහලගම)',
+                'Nawgala-(නැවගල)',
+                'Danovita-(දනෝවිට)',
             )
         )
     );
