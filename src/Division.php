@@ -944,6 +944,18 @@ class Division {
                 'Hapitigama-(හාපිටිගම)',
                 'Makkanigoda North-(මක්කනිගොඩ උතුර)',
                 'Pahalawela-(පහලවෙල)',
+                'Millawala-(මිල්ලවල)',
+                'Weweldeniya Ihalagama West-(වේවැල්දෙනිය ඉහලගම බටහිර)',
+                'Weweldeniya Ihalagama-(වේවැල්දෙනිය ඉහලගම)',
+                'Kotadeniya-(කොටදෙනිය)',
+                'Ilukpatha / Weragoda-(ඉලුක්පොත/වීරගොඩ)',
+                'Hedidenikanda-Radawadunna-(හෙද්දෙනිකන්ද-රදවඩුන්න)',
+                'Radawadunna-(රදවඩුන්න)',
+                'Bataleeya-(බටලිය)',
+                'Bataleeya South-(බටලීය දකුණ)',
+                'Bolana-(බොලාන)',
+                'Mallehewa-(මල්ලැහැව)',
+                'Wabadamulla-(වෑබඩමුල්ල)',
             )
         )
     );
