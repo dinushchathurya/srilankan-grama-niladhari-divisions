@@ -975,6 +975,27 @@ class Division {
                 'Pasyala West-(පස්යාල බටහිර)',
                 'Muruthawala-(මුරුතවල)',
                 'Kithanawatta-(කිතානවත්ත)',
+                'Kammalpitiya-(කම්මල්පිටිය)',
+                'Radawadunna Central-(රදාවඩුන්න මධ්‍යම)',
+                'Imbulgasovita-(ඉබුල්ගස්ඕවිට)',
+                'Pahala Radawadunna-(පහළ රදාවඩුන්න)',
+                'Weerasooriyakanda-(වීරසූරියකන්ද)',
+                'Pasyala East-(පස්යාල නැගෙනහිර)',
+                'Udugama-(උඩුගම)',
+                'Panawala-(පනාවල)',
+                'Delgahamedilla-(දෙල්ගහමිදෙල්ල)',
+                'Mottunna West-(මොට්ටුන්න බටහිර)',
+                'Mottunna-(මොතුන්න)',
+                'Maligathenna-(මාළිගාතැන්න)',
+                'Kureekotuwa-(කූරිකොටුව)',
+                'Hakwaduna-(හක්වඩුන)',
+                'Pahala Kureekotuwa-(පහළ කූරිකොටුව)',
+                'Ellalamulla-(ඇල්ලලමුල්ල)',
+                'Debahera-(දෙබහැර)',
+                'Mawathahena-(මාවතහේන)',
+                'Meevitiya-(මීවිටිය)',
+                'Ketakalapitiya-(කැටකලපිටිය)',
+                'Dambutuwa-(දඹුටුව)'
             )
         )
     );
