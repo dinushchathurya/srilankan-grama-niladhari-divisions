@@ -1079,6 +1079,16 @@ class Division {
                 'Pahala Udugampola North-(පහල උඩුගම්පල උතුර)',
                 'Pahala Udugampola West-(පහල උඩුගම්පොල බටහිර)',
                 'Weediyawatta West-(වීදියවත්ත බටහිර)',
+                'Welhena-(වැල්හේන)',
+                'Weliya-(වෑලිය)',
+                'Paththaduwana-(පත්තඬුවන)',
+                'Paththaduwana West-(පත්තඬුවන බටහිර)',
+                'Yagodamulla North-(යාගොඩමුල්ල උතුර)',
+                'Yagodamulla-(යාගොඩමුල්ල)',
+                'Uggalboda West-(උග්ගල්බඩ බටහිර)',
+                'Uggalboda-(උග්ගල්බඩ)',
+                'Kehelbaddara West-(කෙහෙල්බද්දර බටහිර)',
+                'Kehelbaddara East-(කෙහෙල්බද්දර නැගෙනහිර)',
             )
         )
     );
