@@ -1165,6 +1165,21 @@ class Division {
                 'Thelagapatha-(තෙලගපාත)',
                 'Galwetiya-(ගල්වැටිය)',
                 'Hekiththa-(හේකිත්ත)'
+            ),
+            'Ja-Ela' => array(
+                'Dandugama-(දඩුගම)',
+                'Dehiyagatha North-(දෙහියගත උතුර)',
+                'Kudahakapola North-(කුඩහකහපොල උතුර)',
+                'Gallawatta-(ගලවත්ත)',
+                'Ekala-(ඒකල)',
+                'Dehiyagatha South-(දෙහියගත දකුණ)',
+                'Kudahakapola South-(කුඩහකහපොල දකුණ)',
+                'Ekala Kurunduwatta-(ඒකල කුරැදුවත්ත)',
+                'Vishaka watta-(විශාකා වත්ත)',
+                'Thudella North-(තුදෙල්ල උතුර)',
+                'Thudella West-(තුඩැල්ල බටහිර)',
+                'Thudella South-(තුඩැල්ල දකුණ)',
+                'Kanuwana-(කනුවන)',
             )
         )
     );
