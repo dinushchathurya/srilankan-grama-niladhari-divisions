@@ -1054,6 +1054,18 @@ class Division {
                 'Kalawana-(කලවාන)',
                 'Wattegedara-(වත්තෙගෙදර)',
                 'Ambagahawatta-(අඔගහවත්ත)',
+                'Galloluwa East-(ගල්ලොලුව නැගෙනහිර)',
+                'Galloluwa-(ගල්ලොලුව)',
+                'Kalahugoda-(කලහුගොඩ)',
+                'Polwatta West-(පොල්වත්ත බටහිර)',
+                'Polwatta East-(පොල්වත්ත නැගෙනහිර)',
+                'Pattanduwana North-(පත්තඩුවන උතුර)',
+                'Ellangala-(එල්ලන්ගල)',
+                'Burullapitiya-(බුරුල්ලපිටිය)',
+                'Mathammana-(මතම්මන)',
+                'Weediyawatta East-(වීදියවත්ත නැගෙනහිර)',
+                'Goigama-(ගොයිගම)',
+                'Ihala Udugampola-(ඉහල උඩුගම්පොල)',
             )
         )
     );
