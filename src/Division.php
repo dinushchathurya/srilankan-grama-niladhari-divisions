@@ -1012,6 +1012,15 @@ class Division {
                 'Pahala Vithanamulla-(පහළ විතානමුල්ල)',
                 'Mabodala East-(මාබෝදල නැගෙනහිර)',
                 'Mabodala South-(මාබෝදල දකුණ)',
+                'Watinapaha South-(වටිනපහ දකුණ)',
+                'Wankepumulla-(වන්කැපුමුල්ල)',
+                'Kamaragoda-(කමරගොඩ)',
+                'Kudagoda-(කුඩාගොඩ)',
+                'Horampella South-(හොරම්පැල්ල දකුණ)',
+                'Mahagama-(මහගම)',
+                'Wegowwa South-(වෑගොව්ව දකුණ)',
+                'Minuwangoda East-(මිනුවන්ගොඩ නැගෙනහිර)',
+                'Minuwangoda North-(මිනුවන්ගොඩ උතුර)',
             )
         )
     );
