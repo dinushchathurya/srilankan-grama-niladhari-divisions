@@ -1066,6 +1066,13 @@ class Division {
                 'Weediyawatta East-(වීදියවත්ත නැගෙනහිර)',
                 'Goigama-(ගොයිගම)',
                 'Ihala Udugampola-(ඉහල උඩුගම්පොල)',
+                'Pethiyagoda South-(පෙතියාගොඩ දකුණ)',
+                'Korase-(කොරසෙ)',
+                'Korase Meda-(කොරස මැද)',
+                'Marapola-(මාරපොල)',
+                'Vigoda-(වීගොඩ)',
+                'Doranagoda East-(දොරණගොඩ නැගෙනහිර)',
+                'Korase East-(කොරසේ නැගෙනහිර)',
             )
         )
     );
