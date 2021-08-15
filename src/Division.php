@@ -1089,6 +1089,17 @@ class Division {
                 'Uggalboda-(උග්ගල්බඩ)',
                 'Kehelbaddara West-(කෙහෙල්බද්දර බටහිර)',
                 'Kehelbaddara East-(කෙහෙල්බද්දර නැගෙනහිර)',
+                'Pahala Udugampola South-(පහල උඩුගම්පොල දකුණ)',
+                'Asgiriwalpola North-(අස්ගිරිවල්පොල උතුර)',
+                'Dombawela-(දොඹවල)',
+                'Pedipola-(පේඩිපොල)',
+                'Doranagoda South-(දොරණගොඩ දකුණ)',
+                'Wathumulla-(වතුමුල්ල)',
+                'Asgiriya North-(අස්ගිරිය උතුර)',
+                'Asgiriya South-(අස්ගිරිය දකුණ)',
+                'Asgiriya-(අස්ගිරිය)',
+                'Asgiriya West-(අස්ගිරිය බටහිර)',
+                'Asgiriwalpola South-(අස්ගිරිය දකුණ)',
             )
         )
     );
