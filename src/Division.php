@@ -1030,6 +1030,17 @@ class Division {
                 'Yatiyana East-(යටියන නැගෙනහිර)',
                 'Kopiwatta-(කෝපිවත්ත)',
                 'Boragodawatta South-(බොරගොඩවත්ත දකුණ)',
+                'Minuwangoda West-(මිනුවන්ගොඩ බටහිර)',
+                'Meda Minuwangoda-(මිනුවන්ගොඩ මැද)',
+                'Pansilgoda-(පන්සිල්ගොඩ)',
+                'Wegowwa East-(වෑගොව්ව නැගෙනහිර)',
+                'Helakandana-(හැලකන්දන)',
+                'Peralanda-(Helakandana)',
+                'Dewalapola-(දෙවලපොල)',
+                'Wadumulla-(වඩුමුල්ල)',
+                'Metikotumulla-(මැටිකොටුමුල්ල)',
+                'Essella-(එස්සැල්ල)',
+                'Yatagama-(යටගම)',
             )
         )
     );
