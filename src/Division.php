@@ -1143,7 +1143,22 @@ class Division {
                 'Heenkenda-(හීන්කෙන්ද)',
                 'Thuduwegedara-(තුඩුවේගෙදර)',
                 'Galudupita-(ගල්උඩුපිට)',
-                'Maththumagala-(මත්තුමගල)',
+                'Maththumagala-(මත්තුමගල)',  
+                'Kernga Pokuna-(කෙරඟ පොකුණ)',
+                'Kerawalapitiya-(කෙරවලපිටිය)',
+                'Matagoda-(මාටාගොඩ)',
+                'Balagala-(බලගල)',
+                'Dikovita-(දික්ඕවිට)',
+                'Palliyawatta North-(පල්ලියවත්ත උතුර)',
+                'Elakanda-(එලකන්ද)',
+                'North Of Nayak Kanda-(නායක කන්ද උතුර)',
+                'Mabola-(මාබෝල)',
+                'Welikadamulla-(වැලිකඩමුල්ල)',
+                'Wattala-(වත්තල)',
+                'Hendala North-(හැඳල උතුර)',
+                'Hendala South-(හැඳල දකුණ)',
+                'Nayak Kanda South-(නායක කන්ද දකුණ)',
+                'Thimbirigasyaya-(තිඹිරිගස්යාය)',
             )
         )
     );
