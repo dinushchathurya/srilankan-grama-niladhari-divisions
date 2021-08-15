@@ -996,6 +996,22 @@ class Division {
                 'Meevitiya-(මීවිටිය)',
                 'Ketakalapitiya-(කැටකලපිටිය)',
                 'Dambutuwa-(දඹුටුව)'
+            ),
+            'Minuwangoda' => array(
+                'Nilpanagoda East-(නිල්පනාගොඩ නැගෙනහිර)',
+                'Nilpanagoda-(නිල්පනාගොඩ)',
+                'Arangawa-(ආරංගාව)',
+                'Horampella North-(හොරම්පැල්ල උතුර)',
+                'Galkanda-(ගල්කන්ද)',
+                'Bodhipihituwala-(බෝධිපිහිටුවල)',
+                'Watinapaha-(වටිනපහ)',
+                'Mabodala West-(මාබෝදල බටහිර)',
+                'Mabodala North-(මාබෝදල උතුර)',
+                'Ihala Vithanamulla-(ඉහළ විතානමුල්ල)',
+                'Nalapaha-(නාලපහ)',
+                'Pahala Vithanamulla-(පහළ විතානමුල්ල)',
+                'Mabodala East-(මාබෝදල නැගෙනහිර)',
+                'Mabodala South-(මාබෝදල දකුණ)',
             )
         )
     );
