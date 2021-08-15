@@ -1223,6 +1223,22 @@ class Division {
                 'Ketagewatta-(කැටගේවත්ත)',
                 'Dambuwa-(දඹුව)',
                 'Rampitiya-(රම්පිටිය)'
+            ),
+            'Gampaha' => array(
+                'Makevita North-(මාකෙවිට උතුර)',
+                'Makevita South-(මාකෙවිට දකුණ)',
+                'Mabima-(මාබිම)',
+                'Gonagaha 2-(ගෝනගහ 2)',
+                'Welikada-(වැලිකඩ)',
+                'Gonagaha 1-(ගෝනගහ 1)',
+                'Ambanvita-(අඹන්විට)',
+                'Kirindivita-(කිරිඳිවිට)',
+                'Akaravita-(අකරවිට)',
+                'Pahalagama-(පහළගම)',
+                'Medagama 2-(මැදගම 2)',
+                'Ihalagama West-(ඉහළගම බටහිර)',
+                'Ihalagama East-(ඉහළගම නැගෙනහිර)',
+                'Gampaha Aluthgama North-(ගම්පහ අළුත්ගම උතුර)',
             )
         )
     );
