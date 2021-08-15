@@ -1021,6 +1021,15 @@ class Division {
                 'Wegowwa South-(වෑගොව්ව දකුණ)',
                 'Minuwangoda East-(මිනුවන්ගොඩ නැගෙනහිර)',
                 'Minuwangoda North-(මිනුවන්ගොඩ උතුර)',
+                'Medemulla South-(මැඩැමුල්ල දකුණ)',
+                'Boragodawatta North-(බොරගොඩවත්ත උතුර)',
+                'Yatiyana-(යටියන)',
+                'Peellawatta-(පීල්ලවත්ත)',
+                'Unnaruwa-(උන්නාරුව)',
+                'Yatiyana Central-(යටියන මධ්‍යම)',
+                'Yatiyana East-(යටියන නැගෙනහිර)',
+                'Kopiwatta-(කෝපිවත්ත)',
+                'Boragodawatta South-(බොරගොඩවත්ත දකුණ)',
             )
         )
     );
