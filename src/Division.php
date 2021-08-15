@@ -1041,6 +1041,19 @@ class Division {
                 'Metikotumulla-(මැටිකොටුමුල්ල)',
                 'Essella-(එස්සැල්ල)',
                 'Yatagama-(යටගම)',
+                'Naiwala North-(නයිවල උතුර)',
+                'Naiwala East-(නයිවල නැගෙනහිර)',
+                'Naiwala West-(නයිවල බටහිර)',
+                'Walpitamulla-(වල්පිටමුල්ල)',
+                'Balabowa-(බලබෝව)',
+                'Balabowa West-(බලබෝව බටහිර)',
+                'Pethiyagoda North-(පෙතියාගොඩ උතුර)',
+                'Gallegedara-(ගල්ලෙගෙදර)',
+                'Ganihimulla-(ගනිහිමුල්ල)',
+                'Hendimahara-(හෙන්ඩිමහර)',
+                'Kalawana-(කලවාන)',
+                'Wattegedara-(වත්තෙගෙදර)',
+                'Ambagahawatta-(අඔගහවත්ත)',
             )
         )
     );
