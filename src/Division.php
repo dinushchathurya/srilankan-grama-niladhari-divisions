@@ -1117,6 +1117,20 @@ class Division {
                 'Madelgamuwa West-(මාදෙල්ගමුව බටහිර)',
                 'Thammita West-(තම්මිට බටහිර)',
                 'Thammita-(තම්මිට)'
+            ),
+            'Wattala' => array(
+                'Pamunugama-(පමුණුගම)',
+                'Maha Pamunugama-(මහ පමුණුගම)',
+                'West Of Delathura-(දෑලතුර බටහිර)',
+                'East Of Delathura-(දෑලතුර නැගෙනහිර)',
+                'Bopitiyathuduwa-(බෝපිටියතුඩුව)',
+                'Bopitiya-(බෝපිටිය)',
+                'Pulluhena-(පුල්ලුහේන)',
+                'Paranambalama-(පරනම්බලම)',
+                'Nugape-(නුගපේ)',
+                'Kunjawaththa-(කුංජාවත්ත)',
+                'Magulpokuna-(මගුල් පොකුණ)',
+                'Elehiwaththa-(ඇලෙහිවත්ත)',
             )
         )
     );
