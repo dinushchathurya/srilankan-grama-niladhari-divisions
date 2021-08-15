@@ -1100,6 +1100,23 @@ class Division {
                 'Asgiriya-(අස්ගිරිය)',
                 'Asgiriya West-(අස්ගිරිය බටහිර)',
                 'Asgiriwalpola South-(අස්ගිරිය දකුණ)',
+                'Asgiriwalpola West-(අස්ගිරිවල්පොල බටහිර)',
+                'Madelgamuwa East-(මදෙල්ගමුව නැගෙනහිර)',
+                'Batapotha-(බටපොත)',
+                'Nedagamuwa North-(නැදගමුව උතුර)',
+                'Nedagamuwa South-(නැදගමුව දකුණ)',
+                'Nedagamuwa West-(නැදගමුව බටහිර)',
+                'Arachchiwatta-(ආරච්චිවත්ත)',
+                'Yagodamulla South-(යාගොඩමුල්ල දකුණ)',
+                'Samurdhigama-(සමෘද්ධීගම)',
+                'Opatha-(ඕපාත)',
+                'Kotugoda2-(කොටුගොඩ 2)',
+                'Kotugoda1-(කොටුගොඩ 1)',
+                'Maduruwita-(මැදුරුවිට)',
+                'Siyambalapitiya-(සියඔලාපිටිය)',
+                'Madelgamuwa West-(මාදෙල්ගමුව බටහිර)',
+                'Thammita West-(තම්මිට බටහිර)',
+                'Thammita-(තම්මිට)'
             )
         )
     );
