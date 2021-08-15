@@ -1208,6 +1208,21 @@ class Division {
                 'Polpitimookalana-(පොල්පිටිමූකලාන)',
                 'Batuwatta West-(බටුවත්ත බටහිර)',
                 'Batuwatta East-(බටුවත්ත නැගෙනහිර)',
+                'Walpola East-(වල්පොල නැගෙනහිර)',
+                'Jayasrigama-(ජයශ්‍රීගම)',
+                'Hapugoda East-(හපුගොඩ නැගෙනහිර)',
+                'Nagoda-(නාගොඩ)',
+                'Jayasamarugama-(ජයසමරුගම)',
+                'Peralanda-(පෙරලන්ද)',
+                'Podiveekumbura-(පොඩිවීකුඹුර)',
+                'Walpola West-(වල්පොල බටහිර)',
+                'Narangodapaluwa West-(නාරන්ගොඩපාළුව බටහිර)',
+                'Narangodapaluwa East-(නාරන්ගොඩපලුව නැගෙනහිර)',
+                'Thewatta-(තේවත්ත)',
+                'Ragama-(රාගම)',
+                'Ketagewatta-(කැටගේවත්ත)',
+                'Dambuwa-(දඹුව)',
+                'Rampitiya-(රම්පිටිය)'
             )
         )
     );
