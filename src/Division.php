@@ -1073,6 +1073,12 @@ class Division {
                 'Vigoda-(වීගොඩ)',
                 'Doranagoda East-(දොරණගොඩ නැගෙනහිර)',
                 'Korase East-(කොරසේ නැගෙනහිර)',
+                'Doranagoda North-(දොරණගොඩ උතුර)',
+                'Doranagoda West-(දොරණගොඩ බටහිර)',
+                'Pahala Udugampola East-(පහල උඩුගම්පොල නැගෙනහිර)',
+                'Pahala Udugampola North-(පහල උඩුගම්පල උතුර)',
+                'Pahala Udugampola West-(පහල උඩුගම්පොල බටහිර)',
+                'Weediyawatta West-(වීදියවත්ත බටහිර)',
             )
         )
     );
