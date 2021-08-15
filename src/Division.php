@@ -962,6 +962,19 @@ class Division {
                 'Nungamuwa-(නුන්ගමුව)',
                 'Uthuwambogahawatta-(උතුවම්බෝගහවත්ත)',
                 'Pahala Maligathenna-(පහළ මාලිගාතැන්න)',
+                'Maligathenna Central-(මාළිගාතැන්න මධ්‍යම)',
+                'Wandurawa-(වදුරාව)',
+                'Galgamuwa West-(ගල්ගමුව බටහිර)',
+                'Galgamuwa East-(ගල්ගමුව නැගෙනහිර)',
+                'Kumbaloluwa-(කුඹල්ඔලුව)',
+                'Ihala Kumbaloluwa-(ඉහළ කුම්බාලොලුව)',
+                'Pahala Kumbaloluwa-(පහළ කුම්බාලොලුව)',
+                'Dumunnegedara South-(දුමුන්නේගෙදර දකුණ)',
+                'Dumunnegedara - Kalatuwawa-(දුමුන්නේගෙදර - කලටුවාව)',
+                'Pasyala-(පස්යාල)',
+                'Pasyala West-(පස්යාල බටහිර)',
+                'Muruthawala-(මුරුතවල)',
+                'Kithanawatta-(කිතානවත්ත)',
             )
         )
     );
