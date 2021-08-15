@@ -1131,6 +1131,19 @@ class Division {
                 'Kunjawaththa-(කුංජාවත්ත)',
                 'Magulpokuna-(මගුල් පොකුණ)',
                 'Elehiwaththa-(ඇලෙහිවත්ත)',
+                'Welisara-(වැලිසර)',
+                'Pattiyawala-(පට්ටියවල)',
+                'Uswetakeiyawa-(උස්වැටකෙයියාව)',
+                'Mahabage-(මහබාගේ)',
+                'Elapitiwala-(ඇලපිටිවල)',
+                'Horapethuduwa-(හොරපෙතුඩුව)',
+                'Horape-(හොරපෙ)',
+                'North Of Kurukualawa-(කුරුකුලාව උතුර)',
+                'South Of Kurukulawa-(කුරුකුවාලව දකුණ)',
+                'Heenkenda-(හීන්කෙන්ද)',
+                'Thuduwegedara-(තුඩුවේගෙදර)',
+                'Galudupita-(ගල්උඩුපිට)',
+                'Maththumagala-(මත්තුමගල)',
             )
         )
     );
