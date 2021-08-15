@@ -1159,6 +1159,12 @@ class Division {
                 'Hendala South-(හැඳල දකුණ)',
                 'Nayak Kanda South-(නායක කන්ද දකුණ)',
                 'Thimbirigasyaya-(තිඹිරිගස්යාය)',
+                'Palliyawatta South-(පල්ලියවත්ත දකුණ)',
+                'Kurunduhena-(කුරැදුහේන)',
+                'Evariwatta-(ඇවරිවත්ත)',
+                'Thelagapatha-(තෙලගපාත)',
+                'Galwetiya-(ගල්වැටිය)',
+                'Hekiththa-(හේකිත්ත)'
             )
         )
     );
