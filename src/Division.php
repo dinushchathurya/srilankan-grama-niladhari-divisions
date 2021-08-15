@@ -1239,6 +1239,20 @@ class Division {
                 'Ihalagama West-(ඉහළගම බටහිර)',
                 'Ihalagama East-(ඉහළගම නැගෙනහිර)',
                 'Gampaha Aluthgama North-(ගම්පහ අළුත්ගම උතුර)',
+                'Karanayakamulla-(කරනායකමුල්ල)',
+                'Baduwathugoda-(බදුවතුගොඩ)',
+                'Boraliyawatha-(බොරලියවත)',
+                'Thittalapitigoda-(තිත්තලපිටිගොඩ)',
+                'Aluthgama Bogamuwa North-(අලුත්ගම බොගමුව උතුර)',
+                'Aluthgama Bogamuwa South-(අලුත්ගම ‍බෝගමුව දකුණ)',
+                'Mahipalagoda-(මහීපාලගොඩ)',
+                'Morenna-(මොරැන්න)',
+                'Weediyawatta-(වීදියවත්ත)',
+                'Keselwathugoda North-(කෙසෙල්වතුගොඩ උතුර)',
+                'Indigolla-(ඉඳිගොල්ල)',
+                'Gampaha Aluthgama West	-(ගම්පහ අලුත්ගම බටහිර)',
+                'Bendiyamulla-(බැණ්ඩියමුල්ල උතුර)',
+                'Medagama 4-(මැදගම 4)',
             )
         )
     );
