@@ -1295,6 +1295,22 @@ class Division {
                 'Ganemulla North-(ගණේමුල්ල උතුර)',
                 'Galahitiyawa East-(ගලහිටියාව නැගෙනහිර)',
                 'Galahitiyawa South-(ගලහිටියාව දකුණ)',
+                'Kossinna East-(කොස්සින්න නැගෙනහිර)',
+                'Amunugoda North-(අමුණුගොඩ උතුර)',
+                'Ihala Yagoda South-(ඉහළ යාගොඩ දකුණ)',
+                'Mudungoda South-(මුදුන්ගොඩ දකුණ)',
+                'Mudungoda North-(මුදුන්ගොඩ උතුර)',
+                'Godagedara-(ගොඩගෙදර)',
+                'Rathupaswala-(රතුපස්වල)',
+                'Galloluwa-(ගල්ලොලුව)',
+                'Belummahara-(බැලුම්මහර)',
+                'Ihala Imbulgoda North-(ඉහළ ඉඹුල්ගොඩ උතුර)',
+                'Ihala Imbulgoda South-(ඉහළ ඉඹුල්ගොඩ දකුණ)',
+                'Pahala Imbulgoda South-(පහළ ඉබුල්ගොඩ දකුණ)',
+                'Pahala Imbulgoda West-(පහළ ඉඹුල්ගොඩ බටහිර)',
+                'Amunugoda South-(අමුණුගොඩ දකුණ)',
+                'Parakandeniya North1-(පරකන්දෙනිය උතුර 1)',
+                'Kossinna West1-(කොස්සින්න බටහිර 1)',
             )
         )
     );
