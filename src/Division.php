@@ -1418,6 +1418,19 @@ class Division {
                 'Palkumbura-(පල්කුඹුර)',
                 'Pelpita-(පැල්පිට)',
                 'Walaliyadda-(වලලියද්ද)',
+                'Haggalla East-(හග්ගල නැගෙනහිර)',
+                'Diyakade-(දියකඩේ)',
+                'Welagedara-(වෙලගෙදර)',
+                'Kamburagalla-(කබුරාගල්ල)',
+                'Mathalana North-(මාතලාන උතුර)',
+                'Mathalana-(මාතලාන)',
+                'Meewala-(මීවල)',
+                'Kitttammahara-(කිත්තම්මහර)',
+                'Thihariya South-(තිහාරිය දකුණ)',
+                'Pahala Thihariya-(පහල තිහාරිය)',
+                'Thihariya West-(තිහාහරිය බටහිර)',
+                'Bogamuwa-(බෝගමුව)',
+                'Mangalathiriya	-(මංගලතිරිය)',
             )
         )
     );
