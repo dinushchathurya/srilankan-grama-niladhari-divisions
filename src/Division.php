@@ -1393,7 +1393,18 @@ class Division {
                 'Sapugasthenna-(සපුගස්තැන්න)',
                 'Thiriwanegama South-(තිරිවානගම දකුණ)',
                 'Thiriwanegama North-(තිරිවානගම උතුර)',
-
+                'Halgampitiya-(හලගම්පිටිය)',
+                'Kalagedihena-(කලගෙඩිහේන)',
+                'Thihariyagama-(තිහාරියගම)',
+                'Thihariya East-(තිහාරිය නැගෙනහිර)',
+                'Kalotuwawa-(කලෝටුවාව)',
+                'Kattota-(කත්තොට)',
+                'Orchardwatta South-(ඔර්චාර්ඩ්වත්ත දකුණ)',
+                'Bogoda-(බෝගොඩ)',
+                'Mathalana West-(මාතලාන බස්නාහිර)',
+                'Wathupitiwala-(වතුපිටිවල)',
+                'Walpola-(වල්පොල)',
+                'Haggalla-(හග්ගල්ල)',
             )
         )
     );
