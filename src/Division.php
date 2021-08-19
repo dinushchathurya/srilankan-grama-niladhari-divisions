@@ -1281,6 +1281,20 @@ class Division {
                 'Gampaha Aluthgama East-(ගම්පහ අළුත්ගම නැගෙනහිර)',
                 'Keselwathugoda South-(කෙසෙල්වතුගොඩ දකුණ)',
                 'Yakkala North-(යක්කල උතුර)',
+                'Galthotamulla-(ගල්තොටමුල්ල)',
+                'Yakkala West-(යක්කල බටහිර)',
+                'Pepolgahadeniya-(පැපොල්ගහදෙනිය)',
+                'Yakkala East-(යක්කල නැගෙනහිර)',
+                'Yakkala South-(යක්කල දකුණ)',
+                'Henarathgoda-(හෙනරත්ගොඩ)',
+                'Mudungoda West-(මුදුන්ගොඩ බටහිර)',
+                'Moragoda2-(මොරගොඩ 2)',
+                'Ihala Yagoda North-(ඉහල යාගොඩ උතුර)',
+                'Mahena-(මාහේන)',
+                'Ganemulla South-(ගනේමුල්ල දකුණ)',
+                'Ganemulla North-(ගණේමුල්ල උතුර)',
+                'Galahitiyawa East-(ගලහිටියාව නැගෙනහිර)',
+                'Galahitiyawa South-(ගලහිටියාව දකුණ)',
             )
         )
     );
