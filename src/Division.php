@@ -1457,6 +1457,28 @@ class Division {
                 'Kahatovita West-(කහතෝවිට බටහිර)',
                 'Ogodapola North-(ඕගොඩපොල උතුර)',
                 'Ogodapola-(ඕගොඩපොල)',
+                'Kahambiliyahena-(කහඔිලිහේන)',
+                'Udathuththiripitiya-(උඩතුත්තිරිපිටිය)',
+                'Mattagoda-(මට්ටාගොඩ)',
+                'Weerangula-(වීරගුල)',
+                'Weerangula South-(වීරගුල දකුණ)',
+                'Koskandawala North-(කොස්කඳවල උතුර)',
+                'Kirikittamulla-(කිරිකිත්තමුල්ල)',
+                'Kirikittamulla South-(කිරිකිත්තමුල්ල දකුණ)',
+                'Koskandawala-(කොස්කඳවල)',
+                'Opathella-(ඕපත්ඇල්ල)',
+                'Paranagama-(පරණගම)',
+                'Paranagama East-(පරණගම නැගෙනහිර)',
+                'Aruppassa-(අරුප්පස්ස)',
+                'Madaotuwa West-(මඩකොටුව බටහිර)',
+                'Madakotuwa-(මඩකොටුව)',
+                'Rathambale-(රතඹලේ)',
+                'Walgammulla-(වල්ගම්මුල්ල)',
+                'Ruwanpura-(රුවන්පුර)',
+                'Lavulupitiya-(ලාවුලුපිටිය)',
+                'Galboda-(ගල්බොඩ)',
+                'Dematalanda-(දෙමටලන්ද)',
+                'Happitiya-(හප්පිටිය)'
             )
         )
     );
