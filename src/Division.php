@@ -1311,6 +1311,21 @@ class Division {
                 'Amunugoda South-(අමුණුගොඩ දකුණ)',
                 'Parakandeniya North1-(පරකන්දෙනිය උතුර 1)',
                 'Kossinna West1-(කොස්සින්න බටහිර 1)',
+                'Katuwalamulla North-(කටුවාලමුල්ල උතුර)',
+                'Kossinna West2-(කොස්සින්න බටහිර 2)',
+                'Katuwalamulla South-(කටුවාලමුල්ල දකුණ)',
+                'Parakandeniya North 2-(පරකන්දෙනිය උතුර 2)',
+                'Parakandeniya South-(පරකන්දෙනිය දකුණ)',
+                'Pahala Imbulgoda East-(පහළ ඉඹුල්ගොඩ නැගෙනහිර)',
+                'Embaraluwa North 2-(ඇඹරළුව උතුර 2)',
+                'Embaraluwa North 1-(ඇඹරළුව උතුර 1)',
+                'Weliweriya West-(වැලිවේරිය බටහිර)',
+                'Nedungamuwa-(නැදුන්ගමුව)',
+                'Weliweriya East-(වැලිවේරිය නැගෙනහිර)',
+                'Weliweriya North-(වැලිවේරිය උතුර)',
+                'Weliweriya South-(වැලිවේරිය දකුණ)',
+                'Embaraluwa South 1-(ඇඹරළුව දකුණ 1)',
+                'Embaraluwa South 2-(ඇඹරළුව දකුණ 2)'
             )
         )
     );
