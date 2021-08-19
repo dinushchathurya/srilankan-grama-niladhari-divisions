@@ -1253,6 +1253,20 @@ class Division {
                 'Gampaha Aluthgama West	-(ගම්පහ අලුත්ගම බටහිර)',
                 'Bendiyamulla-(බැණ්ඩියමුල්ල උතුර)',
                 'Medagama 4-(මැදගම 4)',
+                'Medagama 3-(මැදගම 3)',
+                'Medagama 1-(මැදගම 1)',
+                'Oruthota South-(ඔරුතොට දකුණ)',
+                'Kosovita-(කොස්ඹ්විට)',
+                'Rathmalavita-(රත්මලවිට)',
+                'Makilangamuwa-(මාකිලන්ගමුව)',
+                'Horagolla North-(හොරගොල්ල උතුර)',
+                'Thibbotugoda-(තිබ්බොටු‍‍ගොඩ)',
+                'Midellavita-(මිදෙල්ලවිට)',
+                'Kudabollatha-(කුඩා බොල්ලත)',
+                'Bollatha North-(බොල්ලත උතුර)',
+                'Wewel Agara-(වේවැල් අගාර)',
+                'Bollatha West-(බොල්ලත බටහිර)',
+                'Bollatha South-(බොල්ලත දකුණ)',
             )
         )
     );
