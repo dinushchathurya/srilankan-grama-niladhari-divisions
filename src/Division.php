@@ -1405,6 +1405,19 @@ class Division {
                 'Wathupitiwala-(වතුපිටිවල)',
                 'Walpola-(වල්පොල)',
                 'Haggalla-(හග්ගල්ල)',
+                'Ellakkala-(එල්ලක්කල)',
+                'Godagama West-(ගොඩගම බටහිර)',
+                'Godagama-(ගොඩගම)',
+                'Welikadamulla-(වැලිකඩමුල්ල)',
+                'Karasnagala-(කරස්නගල)',
+                'Alawala-(අලවල)',
+                'Ethaudakanda-(ඇතැඋඩකන්ද)',
+                'Alawala South-(අලවල දකුණ)',
+                'Nikahetikanda-(නිකහැටිකන්ද)',
+                'Karasnagala South-(කරස්නාගල දකුණ)',
+                'Palkumbura-(පල්කුඹුර)',
+                'Pelpita-(පැල්පිට)',
+                'Walaliyadda-(වලලියද්ද)',
             )
         )
     );
