@@ -1367,6 +1367,19 @@ class Division {
                 'Egoda Nittambuwa-(එගොඩ නිට්ටබුව)',
                 'Horagollagama-(හොරගොල්ලගම)',
                 'Nambadaluwa West-(නාබාදලූව බටහිර)',
+                'Nambabaluwa East-(නම්බාදළුව නැගෙනහිර)',
+                'Ranpokunagama A Zone-(රන්පොකුණගම ඒ කලාපය)',
+                'Ellakkala West-(එල්ලක්කල බටහිර)',
+                'Maimbula-(මාඉඹුල)',
+                'Ranpokunagama E Zone-(රන්පොකුණගම ඊ කලාපය)',
+                'Ranpokunagama D Zone-(රන්පොකුණගම ඩී කලාපය)',
+                'Ranpokunagama C Zone-(Ranpokunagama D Zone)',
+                'Ranpokunagama B Zone-(රන්පොකුණගම බී කලාපය)',
+                'Maduwegedara-(මඩුවෙගෙදර)',
+                'Yatiyana-(යටියන)',
+                'Orchardwatta-(ඕර්චඩ් වත්ත)',
+                'Malwatta-(මල්වත්ත)',
+                'Thihariya North-(තිහාරිය උතුර)',
             )
         )
     );
