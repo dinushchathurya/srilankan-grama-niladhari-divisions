@@ -1380,6 +1380,20 @@ class Division {
                 'Orchardwatta-(ඕර්චඩ් වත්ත)',
                 'Malwatta-(මල්වත්ත)',
                 'Thihariya North-(තිහාරිය උතුර)',
+                'Katuwasgoda west-(කටුවස්ගොඩ බටහිර)',
+                'Katuwasgoda-(කටුවස්ගොඩ)',
+                'Dadagamuwa-(දඩගමුව)',
+                'Mudagamuwa-(මුඩගමුව)',
+                'Bandarabatawala-(බන්ඩාරබටවල)',
+                'Pitiyegedara-(පිටියෙගෙදර)',
+                'Daraluwa-(දරළුව)',
+                'Bemmulla-(බෙම්මුල්ල)',
+                'Kandaoluwawa-(කන්දඔළුවැව)',
+                'Raniswala-(රනිස්වල)',
+                'Sapugasthenna-(සපුගස්තැන්න)',
+                'Thiriwanegama South-(තිරිවානගම දකුණ)',
+                'Thiriwanegama North-(තිරිවානගම උතුර)',
+
             )
         )
     );
