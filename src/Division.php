@@ -1267,6 +1267,20 @@ class Division {
                 'Wewel Agara-(වේවැල් අගාර)',
                 'Bollatha West-(බොල්ලත බටහිර)',
                 'Bollatha South-(බොල්ලත දකුණ)',
+                'Bulugahagoda West-(බුළුගහගොඩ බටහිර)',
+                'Bulugahagoda East-(බුළුගහගොඩ නැගෙනහිර)',
+                'Galahitiyawa North-(ගලහිටියාව උතුර)',
+                'Horagolla South-(හොරගොල්ල දකුණ)',
+                'Neduna-(නැදුන)',
+                'Pahalayagoda-(පහළයාගොඩ)',
+                'Oruthota North-(ඔරුතොට උතුර)',
+                'Moragoda1-(මොරගොඩ 1)',
+                'Bendiyamulla West-(බැණ්ඩියමුල්ල බටහිර)',
+                'Kidagammulla-(කිඩගම්මුල්ල)',
+                'Bendiyamulla East-(බැණ්ඩියමුල්ල නැගෙනහිර)',
+                'Gampaha Aluthgama East-(ගම්පහ අළුත්ගම නැගෙනහිර)',
+                'Keselwathugoda South-(කෙසෙල්වතුගොඩ දකුණ)',
+                'Yakkala North-(යක්කල උතුර)',
             )
         )
     );
