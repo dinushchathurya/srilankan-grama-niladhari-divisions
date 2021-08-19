@@ -1326,6 +1326,21 @@ class Division {
                 'Weliweriya South-(වැලිවේරිය දකුණ)',
                 'Embaraluwa South 1-(ඇඹරළුව දකුණ 1)',
                 'Embaraluwa South 2-(ඇඹරළුව දකුණ 2)'
+            ),
+            'Attanagalla' => array(
+                'Eluwapitiya West-(එළුවපිටිය බටහිර)',
+                'Eluwapitiya-(එළුවපිටිය)',
+                'Hiripitiya West-(හිරිපිටිය බටහිර)',
+                'Hiripitiya North-(හිරිපිටිය උතුර)',
+                'Hiripitiya Central-(හිරිපිටිය මධ්‍යම)',
+                'Hiripitiya East-(හිරිපිටිය නැගෙනහිර)',
+                'Thalgasmote West-(තල්ගස්මොටේ බටහිර)',
+                'Thalgasmote-(තල්ගස්මොටේ)',
+                'Thalgasmote East-(තල්ගස්මොටේ නැගෙනහිර)',
+                'Udammita-(උදම්මිට)',
+                'Humbutiyawa West-(හුඹුටියාව බටහිර)',
+                'Humbutiyawa-(හුඹුටියාව)',
+                'Parana Veyangoda-(පරණ වේයන්ගොඩ)',
             )
         )
     );
