@@ -1848,7 +1848,28 @@ class Division {
                 'Pattiya-(පට්ටිය)',
                 'Uyankele-(උයන්කැලේ)',
                 'Pattiya South-(දකුණු පට්ටිය)',
-                'Kaludewala-(කළුදෑවල)'
+                'Kaludewala-(කළුදෑවල)',
+                'Kaludewala East-(කළුදෑවල නැගෙනහිර)',
+                'Morawinna-(මොරවින්න)',
+                'Nalluruwa North-(නල්ලුරුව උතුර)',
+                'Nalluruwa-(නල්ලුරුව)',
+                'Dibbedda-(දිබ්බැද්ද)',
+                'Dibbedda North-(දිබ්බැද්ද උතුර)',
+                'Narampitiya-(නාරම්පිටිය)',
+                'Pinwatta-(පින්වත්ත)',
+                'Pinwatta West-(පින්වත්ත බටහිර)',
+                'Thalpitiya North-(උතුරු තල්පිටිය)',
+                'Thalpitiya South-(දකුණු තල්පිටිය)',
+                'Pallimankada-(පල්ලිමංක‍ඩ)',
+                'Wadduwa West-(වාද්දුව බටහිර)',
+                'Wadduwa East-(වාද්දුව නැගෙනහිර)',
+                'Maha Wadduwa-(මහ වාද්දුව)',
+                'Pattieliya-(පාට්ටිඑළිය)',
+                'Kuda Wadduwa-(කුඩා වාද්දුව)',
+                'Wadduwa South-(වාද්දුව දකුණ)',
+                'Molligoda-(මොල්ලිගොඩ)',
+                'Molligoda North-(මොල්ලිගොඩ උතුර)',
+                'Molligoda South-(මොල්ලිගොඩ දකුණ)'
             )
         )
     );
