@@ -1741,6 +1741,10 @@ class Division {
                 'Polhena-(පොල්හේන)',
                 'Kelaniya-(කැළණිය)',
                 'Sinharamulla North-(සිංහාරමුල්ල උතුර)',
+                'Pilapitiya-(පිලපිටිය)',
+                'Pethiyagoda-(පෙතියාගොඩ)',
+                'Mawella-(මෑවෑල්ල)',
+                'Sinharamulla-(සිංහාරමුල්ල)',
             )
         )
     );
