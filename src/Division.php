@@ -1675,6 +1675,18 @@ class Division {
                 'Sooriyapaluwa East-(සූරියපාලුව නැගෙනහිර)',
                 'Sooriyapaluwa South-(සූරියපාලුව දකුණ)',
                 'Ranmuthugala-(රන්මුතුගල)',
+                'Kirillawala South-(කිරිල්ලවල දකුණ)',
+                'Webada East-(වෑබඩ නැගෙනහිර)',
+                'Gonahena East-(ගෝනහේන නැගෙනහිර)',
+                'Gonahena South-(ගෝනහේන දකුණ)',
+                'Gonahena West-(ගෝනහේන බටහිර)',
+                'Eldeniya East-(ඇල්දෙනිය නැගෙනහිර)',
+                'Eldeniya West-(ඇල්දෙනිය බටහිර)',
+                'Puwakwetiya-(පුවක්වැටිය)',
+                'Ihala Karagahamuna South-(ඉහල කරගහමුණ දකුණ)',
+                'Ihala Karagahamuna East-(ඉහල කරගහමුණ නැගෙනහිර)',
+                'Ihala Karagahamuna North-(ඉහල කරගහමුණ උතුර)',
+                'Mahara Nugegoda South-(මහර නුගේගොඩ දකුණ)',
             )
         )
     );
