@@ -1707,6 +1707,24 @@ class Division {
                 'Enderamulla West-(එඩේරමුල්ල බටහිර)',
                 'Nathuduwa West-(නාතුඩුව බටහිර)',
                 'Akbar Town-(අක්බාර් නගරය)'
+            ),
+            'Kelaniya'=> array(
+                'Hunupitiya North-(හුනුපිටිය උතුර)',
+                'Nahena-(නාහේන)',
+                'Eriyawetiya-(ඊරියවැටිය)',
+                'Kiribathgoda-(කිරිබත්ගොඩ)',
+                'Thalawathuhenpita North-(තලවතුහේන්පිට උතුර)',
+                'Thalawathuhenpita South-(තලවතුහේන්පිට දකුණ)',
+                'Kendahena-(කැන්දහේන)',
+                'Egoda Eriyawetiya-(එගොඩ ඊරියවැටිය)',
+                'Hunupitiya East-(හුනුපිටිය නැගෙනහිර)',
+                'Hunupitiya South-(හුනුපිටිය දකුණ)',
+                'Wanawasala West-(වනවාසල බටහිර)',
+                'Wanawasala East-(වනවාසල නැගෙනහිර)',
+                'Dippitigoda-(දිප්පිටිගොඩ)',
+                'Weweldoowa-(වේවැල්දූව)',
+                'Warakanatta-(වරාකනත්ත)',
+                'Koholvila-(කොහොල්විල)',
             )
         )
     );
