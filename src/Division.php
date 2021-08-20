@@ -1663,6 +1663,18 @@ class Division {
                 'Webada West-(වෑබඩ බටහිර)',
                 'Kirillawala North-(කිරිල්ලවල උතුර)',
                 'Kirillawala-(කිරිල්ලවල)',
+                'Kirillawala West-(කිරිල්ලවල බටහිර)',
+                'Sooriyapaluwa North-(සූරියපලුව උතුර)',
+                'Kendaliyeddapaluwa East-(කැන්දලියද්දපාළුව නැගෙනහිර)',
+                'Kendaliyeddapaluwa North-(කැන්දලියද්දපාළුව උතුර)',
+                'Dangahawela-(දංගහවෙල)',
+                'Kendaliyeddapaluwa West-(කැන්දලියද්දපාළුව බටහිර)',
+                'Mahara Nugegoda North-(මහර නුගේගොඩ උතුර)',
+                'Mahara Nugedoga West-(මහර නුගේගොඩ බටහිර)',
+                'Mahara Nugegoda East-(මහර නුගේගොඩ නැගෙනහිර)',
+                'Sooriyapaluwa East-(සූරියපාලුව නැගෙනහිර)',
+                'Sooriyapaluwa South-(සූරියපාලුව දකුණ)',
+                'Ranmuthugala-(රන්මුතුගල)',
             )
         )
     );
