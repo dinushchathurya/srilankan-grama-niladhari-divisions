@@ -1614,6 +1614,20 @@ class Division {
                 'Mahawalawatta-(මහවලවත්ත)',
                 'Thittapattara-(තිත්තපත්තර)',
                 'Samanabedda-(සමනබැද්ද)'
+            ),
+            'Mahara'=> array(
+                'Kimbulgoda-(කිඹුල්ගොඩ)',
+                'Pituwalgoda-(පිටුවල්ගොඩ)',
+                'Kinigama-(කිනීගම)',
+                'Maharagama-(මාහරගම)',
+                'Siwralumulla-(සිවුරළුමුල්ල)',
+                'Pilikuththuwa-(පිලිකුත්තුව)',
+                'Yongammulla-(යොන්ගම්මුල්ල)',
+                'Ambgaspitiya-(අඹගස්පිටිය)',
+                'Warapalana-(වරපලාන)',
+                'Kandumulla-(කඳුමුල්ල)',
+                'Pasgammana-(පස්ගම්මන)',
+                'Maligathenna-(මාළිගාතැන්න)',
             )
         )
     );
