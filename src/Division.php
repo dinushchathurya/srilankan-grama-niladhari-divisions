@@ -1628,6 +1628,18 @@ class Division {
                 'Kandumulla-(කඳුමුල්ල)',
                 'Pasgammana-(පස්ගම්මන)',
                 'Maligathenna-(මාළිගාතැන්න)',
+                'Batepola North-(බටේපොල උතුර)',
+                'Batepola-(බටේපොල)',
+                'Amunukumbura-(අමුණුකුඹුර)',
+                'Malwathuhiripitiya-(මල්වතුහිරිපිටිය)',
+                'Buthpitiya North-(බුත්පිටිය උතුර)',
+                'Uruwala East-(ඌරුවල නැගෙනහිර)',
+                'Uruwala West-(ඌරුවල බටහිර)',
+                'Buthpitiya South-(බුත්පිටිය දකුණ)',
+                'Neelamahara North-(නීලමහර උතුර)',
+                'Neelamahara South-(නීලමහර දකුණ)',
+                'Aramangoda North-(අරමංගොඩ උතුර)',
+                'Puwakpitiya-(පුවක්පිටිය)',
             )
         )
     );
