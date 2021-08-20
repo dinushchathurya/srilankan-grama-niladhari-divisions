@@ -1640,6 +1640,17 @@ class Division {
                 'Neelamahara South-(නීලමහර දකුණ)',
                 'Aramangoda North-(අරමංගොඩ උතුර)',
                 'Puwakpitiya-(පුවක්පිටිය)',
+                'Amunukumbura South-(අමුණුකුඔූර දකුණ)',
+                'Balivila-(බලිවිල)',
+                'Vilimbula North-(විළිඹුල උතුර)',
+                'Vilimbula South-(විළිඹුල දකුණ)',
+                'Aramangoda-(අරමංගොඩ)',
+                'Kahatana-(කහටාන)',
+                'Henegama-(හේනේගම)',
+                'Etikehelgalla East-(ඇටිකෙහෙල්ගල්ල නැගෙනහිර)',
+                'Etikehelgalla West-(ඇටිකෙහෙල්ගල්ල බටහිර)',
+                'Kirikitta North-(කිරිකිත්ත උතුර)',
+                'Kirikitta East-(කිරිකිත්ත නැගෙනහිර)',
             )
         )
     );
