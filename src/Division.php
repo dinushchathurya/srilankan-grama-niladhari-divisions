@@ -1607,6 +1607,13 @@ class Division {
                 'Kimbulvilawatta-(කිඹුල්විලවත්ත)',
                 'Udamapitigama-(උඩමාපිටිගම)',
                 'Udamapitigama South-(උඩමාපිටිගම දකුණ)',
+                'Palugama West-(පාලුගම බටහිර)',
+                'Welgama-(වේල්ගම)',
+                'Lansiyahena-(ලන්සියාහේන)',
+                'Samanabedda North-(සමණබැද්ද උතුර)',
+                'Mahawalawatta-(මහවලවත්ත)',
+                'Thittapattara-(තිත්තපත්තර)',
+                'Samanabedda-(සමනබැද්ද)'
             )
         )
     );
