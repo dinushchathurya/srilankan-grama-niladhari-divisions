@@ -1651,6 +1651,18 @@ class Division {
                 'Etikehelgalla West-(ඇටිකෙහෙල්ගල්ල බටහිර)',
                 'Kirikitta North-(කිරිකිත්ත උතුර)',
                 'Kirikitta East-(කිරිකිත්ත නැගෙනහිර)',
+                'Kirikitta West-(කිරිකිත්ත බටහිර)',
+                'Ahugammana-(අහුගම්මන)',
+                'Naranwala South-(නාරන්වල දකුණ)',
+                'Naranwala-(නාරන්වල)',
+                'Udupila East-(උඩුපිල නැගෙනහිර)',
+                'Udupila South-(උඩුපිල දකුණ)',
+                'Udupila North-(උඩුපිල උතුර)',
+                'Webada South-(වෑබඩ දකුණ)',
+                'Webada North-(වෑබඩ උතුර)',
+                'Webada West-(වෑබඩ බටහිර)',
+                'Kirillawala North-(කිරිල්ලවල උතුර)',
+                'Kirillawala-(කිරිල්ලවල)',
             )
         )
     );
