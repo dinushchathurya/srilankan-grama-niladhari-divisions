@@ -1699,6 +1699,14 @@ class Division {
                 'Pinnameda West-(පින්නමැද බටහිර)',
                 'Gongithota-(ගොංගිතොට)',
                 'Appugewatta-(අප්පුගෙවත්ත)',
+                'Gongithota West-(ගොංගිතොට බටහිර)',
+                'Enderamulla South-(එඩේරමුල්ල දකුණ)',
+                'Enderamulla East-(එඩේරමුල්ල නැගෙනහිර)',
+                'Pinnameda-(පින්නමැද)',
+                'Nathuduwa-(නාතුඩුව)',
+                'Enderamulla West-(එඩේරමුල්ල බටහිර)',
+                'Nathuduwa West-(නාතුඩුව බටහිර)',
+                'Akbar Town-(අක්බාර් නගරය)'
             )
         )
     );
