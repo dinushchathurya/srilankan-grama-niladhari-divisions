@@ -1834,6 +1834,21 @@ class Division {
                 'Malamulla-(මාලමුල්ල)',
                 'Kuruppumulla-(කුරුප්පුමුල්ල)',
                 'Atambagoda-(ඇටඔගොඩ)',
+                'Pattiya North-(උතුරු පට්ටිය)',
+                'Bazaar North-(කඩවීදිය උතුර)',
+                'Sagara Place-(සාගරපෙදෙස)',
+                'Bazaar West-(කඩවීදිය බටහිර)',
+                'Bazaar-(කඩවීදිය)',
+                'Walapala Pattiya-(වලපල පට්ටිය)',
+                'Walapala-(වලපල)',
+                'Eluwila-(එළුවිල)',
+                'Wekada East-(වැකඩ නැගෙනහිර)',
+                'Wekada North-(වැකඩ උතුර)',
+                'Wekada West-(වැකඩ බටහිර)',
+                'Pattiya-(පට්ටිය)',
+                'Uyankele-(උයන්කැලේ)',
+                'Pattiya South-(දකුණු පට්ටිය)',
+                'Kaludewala-(කළුදෑවල)'
             )
         )
     );
