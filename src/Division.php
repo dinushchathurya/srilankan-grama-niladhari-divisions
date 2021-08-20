@@ -1687,6 +1687,18 @@ class Division {
                 'Ihala Karagahamuna East-(ඉහල කරගහමුණ නැගෙනහිර)',
                 'Ihala Karagahamuna North-(ඉහල කරගහමුණ උතුර)',
                 'Mahara Nugegoda South-(මහර නුගේගොඩ දකුණ)',
+                'Neligama-(නෙලිගම)',
+                'Pahala Karagahamuna North-(පහල කරගහමුණ උතුර)',
+                'Pahala Karagahamuna East-(පහල කරගහමුණ නැගෙනහිර)',
+                'Pahala Karagahamuna West-(පහල කරගහමුණ බටහිර)',
+                'Kopiwatta-(කෝපිවත්ත)',
+                'Dalupitiya East-(දළුපිටිය නැගෙනහිර)',
+                'Kirimetiyagara-(කිරිමැටියාගාර)',
+                'Dalupitiya South-(දළුපිටිය දකුණ)',
+                'Dalupitiya West-(දළුපිටිය බටහිර)',
+                'Pinnameda West-(පින්නමැද බටහිර)',
+                'Gongithota-(ගොංගිතොට)',
+                'Appugewatta-(අප්පුගෙවත්ත)',
             )
         )
     );
