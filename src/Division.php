@@ -1725,6 +1725,22 @@ class Division {
                 'Weweldoowa-(වේවැල්දූව)',
                 'Warakanatta-(වරාකනත්ත)',
                 'Koholvila-(කොහොල්විල)',
+                'Dalugamgoda-(දළුගම්ගොඩ)',
+                'Nungamugoda-(නුංගමුගොඩ)',
+                'Dalugama-(දළුගම)',
+                'Himbutuwelgoda-(හිඹුටුවැල්ගොඩ)',
+                'Pattiya East-(පට්ටිය නැගෙනහිර)',
+                'Pattiya North-(පට්ටිය උතුර)',
+                'Meegahawatta-(මීගහවත්ත)',
+                'Peliyagodawatta-(පෑලියගොඩවත්ත)',
+                'Peliyagoda Gangabada-(පෑලියගොඩ ගගබඩ)',
+                'Peliyagoda Gangabada East-(පෑලියගොඩ ගගබඩ නැගෙනහිර)',
+                'Pattiya West-(පට්ටිය බටහිර)',
+                'Wedamulla-(වෙදමුල්ල)',
+                'Galborella-(ගල්බොරැල්ල)',
+                'Polhena-(පොල්හේන)',
+                'Kelaniya-(කැළණිය)',
+                'Sinharamulla North-(සිංහාරමුල්ල උතුර)',
             )
         )
     );
