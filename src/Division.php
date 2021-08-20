@@ -1796,6 +1796,20 @@ class Division {
                 'Malwana Town-(මල්වාන නගරය)',
                 'Walgama East-(වල්ගම නැගෙනහිර)'
             )
+        ),
+        'Kalutara' => array(
+            'Panadura' => array(
+                'Horethuduwa North-(හොරේතුඩුව උතුර)',
+                'Horethuduwa-(හොරේතුඩුව)',
+                'Horethuduwa Central-(හොරේතුඩුව මැද)',
+                'Horethuduwa South-(හොරේතුඩුව දකුණ)',
+                'Gorakana-(ගොරකාන)',
+                'Gorakana South-(ගොරකාන දකුණ)',
+                'Paratta West-(පරත්ත බටහිර)',
+                'Paratta-(පරත්ත)',
+                'Diggala-(දිග්ගල)',
+                'Keselwatta-(කෙසෙල් වත්ත)',
+            )
         )
     );
 }
