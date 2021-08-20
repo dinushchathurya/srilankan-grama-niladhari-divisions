@@ -1479,6 +1479,26 @@ class Division {
                 'Galboda-(ගල්බොඩ)',
                 'Dematalanda-(දෙමටලන්ද)',
                 'Happitiya-(හප්පිටිය)'
+            ),
+            'Dompe'=> array(
+                'Maryland Colony-(මේරිලන්ඩ් ජනපදය)',
+                'Indurugalla-(ඉදුරුගල්ල)',
+                'Wathurugama-(වතුරුගම)',
+                'Bandaranayakapura West-(බණ්ඩාරනායකපුර බටහිර)',
+                'Bandaranayakapura East-(බණ්ඩාරනායකපුර නැගෙනහිර)',
+                'Mailawalana-(මයිලවලාන)',
+                'Mailawalana South-(මයිලවලාන දකුණ)',
+                'Thimbirigama-(තිඹිරිගම)',
+                'Mahal Loluwa-(මහල්ලොලුව)',
+                'Ihala Millathe-(ඉහළමිල්ලතෙ)',
+                'Pingamuwa-(පින්ගමුව)',
+                'Pahala Millathe-(පහළ මිල්ලතෙ)',
+                'Millathe-(මිල්ලතෙ)',
+                'Kirindiwela-(කිරිදිවැල)',
+                'Bogahawatta-(බෝගහවත්ත)',
+                'Rambutanwatta-(රඹුටන්වත්ත)',
+                'Etambagahawatta-(ඇටඹගහවත්ත)',
+                'Kannimahara-(කන්නිමහර)',
             )
         )
     );
