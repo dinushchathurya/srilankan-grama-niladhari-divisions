@@ -1744,7 +1744,25 @@ class Division {
                 'Pilapitiya-(පිලපිටිය)',
                 'Pethiyagoda-(පෙතියාගොඩ)',
                 'Mawella-(මෑවෑල්ල)',
-                'Sinharamulla-(සිංහාරමුල්ල)',
+                'Sinharamulla-(සිංහාරමුල්ල)'
+            ),
+            'Biyagama'=> array(
+                'Ihala Biyanvila North-(ඉහළ බියන්විල උතුර)',
+                'Ihala Biyanvila Central-(ඉහළ බියන්විල මධ්‍යම)',
+                'Mawaramandiya-(මාවරමණ්ඩිය)',
+                'Meegahawatta West-(මීගහවත්ත බටහිර)',
+                'Meegahawatta East-(මීගහවත්ත නැගෙනහිර)',
+                'Kammalwatta-(කම්මල්වත්ත)',
+                'Delgoda-(දෙල්ගොඩ)',
+                'Athurumulla-(අතුරුමුල්ල)',
+                'Kanduboda East-(කදුබොඩ නැගෙනහිර)',
+                'Kanduboda West-(කදුබොඩ බටහිර)',
+                'Siyambalape Watta-(සියඔලාපෙ වත්ත)',
+                'Daranagama-(දරණගම)',
+                'Siyambalape North-(සියඔලාපෙ උතුර)',
+                'Heiyanthuduwa North-(හෙයියන්තුඩුව උතුර)',
+                'Makola South Ihala-(මාකොළ දකුණ ඉහළ)',
+                'Makola North Ihala-(මාකොළ උතුර ඉහළ)',
             )
         )
     );
