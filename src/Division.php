@@ -2013,7 +2013,20 @@ class Division {
                 'Nambapana-(නම්බපාන)',
                 'Urugala East-(ඌරුගල නැගෙනහිර)',
                 'Ingiriya East-(ඉංගිරිය නැගෙනහිර)',
-                'Ingiriya North	-(ඉංගිරිය උතුර)'
+                'Ingiriya North	-(ඉංගිරිය උතුර)',
+                'Nimalagama-(නිමලගම)',
+                'Eduragala-(ඇඳුරාගල)',
+                'Maputugala-(මාපුටුගල)',
+                'Pelpitigoda-(පැල්පිටිගොඩ)',
+                'Rathmalgoda East-(රත්මල්ගොඩ නැගෙනහිර)',
+                'Rathmalgoda West-(රත්මල්ගොඩ බටහිර)',
+                'Poruwadanda West-(පෝරුවදණ්ඩ බටහිර)',
+                'Poruwadanda East-(පෝරුවදණ්ඩ නැගෙනහිර)',
+                'Wagawatta-(වගවත්ත)',
+                'Kekulaliya-(කැකුළලිය)',
+                'Dombagaskanda-(දොඹගස්කන්ද)',
+                'Ingiriya West-(ඉංගිරිය බටහිර)',
+                'Urugala West-(ඌරුගල බටහිර)'
             )
         )
     );
