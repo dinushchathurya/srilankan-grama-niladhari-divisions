@@ -2027,6 +2027,26 @@ class Division {
                 'Dombagaskanda-(දොඹගස්කන්ද)',
                 'Ingiriya West-(ඉංගිරිය බටහිර)',
                 'Urugala West-(ඌරුගල බටහිර)'
+            ),
+            'Bulathsinhala' => array(
+                'Ihala Naragala-(ඉහල නරාගල)',
+                'Kobawaka North-(කොබවක උතුර)',
+                'Diwalakada-(දිවලකඩ)',
+                'Meegahakumbura-(මීගහකුඹුර)',
+                'Yahalawatta-(යහලවත්ත)',
+                'Bothale Gangoda-(බෝතලේගංගොඩ)',
+                'Kongasthenna-(කෝන්ගස්තැන්න)',
+                'Halwathura-(හල්වතුර)',
+                'Amaragedara North-(අමරගෙදර උතුර)',
+                'Bothale-(බෝතලේ)',
+                'Bulathsinhala North-(බුලත්සිංහල උතුර)',
+                'Egaloya-(ඈගල්ඔය)',
+                'Kobawaka South-(කොබවක දකුණ)',
+                'Ihala Naragala Souths-(ඉහල නරාගල දකුණ)',
+                'Govinna North-(ගෝවින්න උතුර)',
+                'Pahala Naragala-(පහළ නරාගල)',
+                'Dewamulla-(දේවමුල්ල)',
+                'Govinna South-(ගෝවින්න දකුණ)'
             )
         )
     );
