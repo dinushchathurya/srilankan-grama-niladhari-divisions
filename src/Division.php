@@ -1994,6 +1994,26 @@ class Division {
                 'Mahena-(මාහේන)',
                 'Wewala East-(වෑවල නැගෙනහිර)',
                 'Horana East-(හොරණ නැගෙනහිර)'
+            ),
+            'Ingiriya' => array(
+                'Menerigama-(මෙනේරිගම)',
+                'Arakavila-(අරකාවිල)',
+                'Kandanapitiya-(කඳනපිටිය)',
+                'Kottiyawatta-(කොටියාවත්ත)',
+                'Kurana North-(කුරණ උතුර)',
+                'Kurana South-(කුරණ දකුණ)',
+                'Kotigala-(කොටිගල)',
+                'Handapangoda East-(හදපාන්ගොඩ නැගෙනහිර)',
+                'Handapangoda West-(හදපාන්ගොඩ බටහිර)',
+                'Kekuladola-(කැකුළාදොල)',
+                'Handapangoda South-(හදපාන්ගොඩ දකුණ)',
+                'Batugampola-(බටුගම්පොල)',
+                'Raigamwatta-(රයිගම්වත්ත)',
+                'Maha Ingiriya-(මහ ඉංගිරිය)',
+                'Nambapana-(නම්බපාන)',
+                'Urugala East-(ඌරුගල නැගෙනහිර)',
+                'Ingiriya East-(ඉංගිරිය නැගෙනහිර)',
+                'Ingiriya North	-(ඉංගිරිය උතුර)'
             )
         )
     );
