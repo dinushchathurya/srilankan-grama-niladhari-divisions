@@ -2082,6 +2082,27 @@ class Division {
                 'Mahagama South-(මහගම දකුණ)',
                 'Muduna-(මුදුන)',
                 'Gamagewatta-(ගමගෙවත්ත)'
+            ),
+            'Madurawela' => array(
+                'Ilimba-(ඉළිඹ)',
+                'Kandana North-(කඳාන උතුර)',
+                'Kandana South-(කඳාන දකුණ)',
+                'Elawella-(එළවැල්ල)',
+                'Bellapitiya West-(බැල්ලපිටිය බටහිර)',
+                'Mahena South-(මාහේන දකුණ)',
+                'Bellapitiya East-(බැල්ලපිටිය නැගෙනහිර)',
+                'Walpita-(වල්පිට)',
+                'Werawatta-(වේරවත්ත)',
+                'Peramunagama-(පෙරමුණගම)',
+                'Weliketella-(වැලිකැටැල්ල)',
+                'Remuna-(රෙමුණ)',
+                'Mahayala East-(මහයාල නැගෙනහිර)',
+                'Kananvila-(කනන්විල)',
+                'Mahayala West-(මහයාල බටහිර)',
+                'Hallankanda-(හල්ලන්කන්ද)',
+                'Kudella-(කූඩැල්ල)',
+                'Madurawala East-(මදුරාවල නැගෙනහිර)',
+                'Kudayala-(කුඩායාල)'
             )
         )
     );
