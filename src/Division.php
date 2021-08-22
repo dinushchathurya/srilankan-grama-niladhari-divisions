@@ -2478,6 +2478,29 @@ class Division {
                 'Polgampala East-(පොල්ගම්පල නැගෙනහිර)',
                 'Rathmale East-(රත්මලේ නැගෙනහිර)',
                 'Rathmale-(රත්මලේ)'
+            ),
+            'Palindanuwara'=> array(
+                'Kosgulana-(කොස්ගුලන)',
+                'Kelinkanda-(කෙලින්කන්ද)',
+                'Kelinkanda Colony-(කෙලින්කන්ද ජනපදය)',
+                'Walakada-(වලකඩ)',
+                'Kapugedara-(කපුගෙදර)',
+                'Galahitiya-(ගලහිටිය)',
+                'Ilukpatha-(ඉලුක්පත)',
+                'Pelenda West-(පැලැඳ බටහිර)',
+                'Pelenda-(පැලැඳ)',
+                'Bampara-(බාම්පාර)',
+                'Ambegoda-(අඹේගොඩ)',
+                'Morapitiya North-(මොරපිටිය උතුර)',
+                'Morapitiya-(මොරපිටිය)',
+                'Midalana West-(මිදලන බටහිර)',
+                'Maragahadeniya-(මාරගහදෙණිය)',
+                'Lathpandura East-(ලත්පඳුර නැගෙනහිර)',
+                'Bellana East-(බෙල්ලන නැගෙනහිර)',
+                'Viharagama-(විහාරගම)',
+                'Kapugama-(කපුගම)',
+                'Bellana-(බෙල්ලන)',
+                'Yakupitiya-(යකුපිටිය)'
             )
         )
     );
