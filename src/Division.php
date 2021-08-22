@@ -2442,6 +2442,24 @@ class Division {
                 'Lewwanduwa West-(ලෙව්වන්දූව බටහිර)',
                 'Lewwanduwa East-(ලෙව්වන්දූව නැගෙනහිර)',
                 'Madawala-(මඩවල)'
+            ),
+            'Agalawatta'=> array(
+                'Girikola-(ගිරිකොළ)',
+                'Pimbura-(පිඹුර)',
+                'Omatta-(ඕමත්ත)',
+                'Omatta East-(ඕමත්ත නැගෙනහිර)',
+                'Evariwatta-(ඇවරිවත්ත)',
+                'Kekulandala South-(කැකුලන්දල දකුණ)',
+                'Halovita-(හල්ඕවිට)',
+                'Udawela-(උඩවෙල)',
+                'Helamba-(හෑළඹ)',
+                'Yatiyana West-(යටියන බටහිර)',
+                'Gorokgoda-(ගොරොක්ගොඩ)',
+                'Beragama-(බේරගම)',
+                'Agalawatta-(අගලවත්ත)',
+                'Kekulalanda North-(කැකුලන්ද උතුර)',
+                'Dapiligoda-(දාපිලිගොඩ)',
+                'Wandurabba-(වදුරබ්බ)'
             )
         )
     );
