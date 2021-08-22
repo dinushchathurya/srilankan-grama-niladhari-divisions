@@ -2064,7 +2064,24 @@ class Division {
                 'Deeyakaduwa East-(දීයකඩුව නැගෙනහිර)',
                 'Deeyakaduwa West-(දීයකඩුව බටහිර)',
                 'Bogahawatta-(බෝගහවත්ත)',
-                'Mahagama North-(මහගම උතුර)'
+                'Mahagama North-(මහගම උතුර)',
+                'Demodarawatta-(දෙමෝදර වත්ත)',
+                'Thennahena-(තැන්නෙහේන)',
+                'Ihala Welgama-(ඉහල වෙල්ගම)',
+                'Paragoda West-(පරගොඩ බටහිර)',
+                'Paragoda East-(පරගොඩ නැගෙනහිර)',
+                'Molkawa-(මොල්කාව)',
+                'Galahitiya-(ගලහිටිය)',
+                'Mahagama East-(මහගම නැගෙනහිර)',
+                'Polegoda West-(පොලේගොඩ බටහිර)',
+                'Mahagama West-(මහගම බටහිර)',
+                'Pahala Kudaligama-(පහළ කුඩලිගම)',
+                'Ihala Kudaligama-(ඉහළ කුඩලිගම)',
+                'Weyangalla West-(වේයන්ගල්ල බටහිර)',
+                'Weyangalla East-(වේයන්ගල්ල නැගෙනහිර)',
+                'Mahagama South-(මහගම දකුණ)',
+                'Muduna-(මුදුන)',
+                'Gamagewatta-(ගමගෙවත්ත)'
             )
         )
     );
