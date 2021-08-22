@@ -2046,7 +2046,25 @@ class Division {
                 'Govinna North-(ගෝවින්න උතුර)',
                 'Pahala Naragala-(පහළ නරාගල)',
                 'Dewamulla-(දේවමුල්ල)',
-                'Govinna South-(ගෝවින්න දකුණ)'
+                'Govinna South-(ගෝවින්න දකුණ)',
+                'Ratiyala-(රැටියල)',
+                'Bulathsinhala South-(බුලත්සිංහල දකුණ)',
+                'Bulathsinhala-(බුලත්සිංහල)',
+                'Bulathsinhala Central-(බුලත්සිංහල මධ්‍යම)',
+                'Amaragedara South-(අමරගෙදර දකුණ)',
+                'Delmella-(දෙල්මෑල්ල)',
+                'Udugahalakanda-(උඩුගලකන්ද)',
+                'Niggaha-(නිග්ගහ)',
+                'Yatagampitiya-(යටගම්පිටිය)',
+                'Karaldekma-(කරල්දැක්ම)',
+                'Bulathsinhala East-(බුලත්සිංහල නැගෙනහිර)',
+                'Damparadugoda-(දම්පරාදුගොඩ)',
+                'Pahala Welgama-(පහළ වෙල්ගම)',
+                'Bulathsinhala West-(බුලත්සිංහල බටහිර)',
+                'Deeyakaduwa East-(දීයකඩුව නැගෙනහිර)',
+                'Deeyakaduwa West-(දීයකඩුව බටහිර)',
+                'Bogahawatta-(බෝගහවත්ත)',
+                'Mahagama North-(මහගම උතුර)'
             )
         )
     );
