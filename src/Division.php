@@ -2137,8 +2137,25 @@ class Division {
                 'Kennanthudawa-(කැන්නන්තුඩාව)',
                 'Mawathgama-(මාවත්ගම)',
                 'Yalagala-(යාලගල)',
-                'Labugama-(ලබුගම)'
-
+                'Labugama-(ලබුගම)',
+                'Pethigamuwa North-(පෙතිගමුව උතුර)',
+                'Pethigamuwa South-(පෙතිගමුව දකුණ)',
+                'Weniwelpitiya-(වෙනිවැල්පිටිය)',
+                'Millagaspola-(මිල්ලගස්පොළ)',
+                'Boralessa-(බොරලැස්ස)',
+                'Pelpola-(පැල්පොල)',
+                'Imbulahena-(ඉඹුලහේන)',
+                'Punsiripura-(පුන්සිරිපුර)',
+                'Galpatha West-(ගල්පාත බටහිර)',
+                'Galpatha East-(ගල්පාත නැගෙනහිර)',
+                'Batagoda-(බටගොඩ)',
+                'Mulkadakanda-(මුල්කඩකන්ද)',
+                'Adhikarigoda-(අධිකාරිගොඩ)',
+                'Dombagoda-(දොඹගොඩ)',
+                'Uduwara North-(උඩුවර උතුර)',
+                'Uduwara West-(උඩුවර බටහිර)',
+                'Uduwara East-(උඩුවර නැගෙනහිර)',
+                'Uduwara South-(උඩුවර දකුණ)'
             )
         )
     );
