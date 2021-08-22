@@ -2336,7 +2336,6 @@ class Division {
                 'Seenawatta-(සීතවත්ත)',
                 'Aluthgama East-(අළුත්ගම නැගෙනහිර)',
                 'Aluthgama West-(අළුත්ගම බටහිර)'
-
             )
         )
     );
