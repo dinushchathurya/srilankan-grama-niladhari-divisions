@@ -2155,7 +2155,14 @@ class Division {
                 'Uduwara North-(උඩුවර උතුර)',
                 'Uduwara West-(උඩුවර බටහිර)',
                 'Uduwara East-(උඩුවර නැගෙනහිර)',
-                'Uduwara South-(උඩුවර දකුණ)'
+                'Uduwara South-(උඩුවර දකුණ)',
+                'Pathakada-(පාතකඩ)',
+                'Panagoda-(පනාගොඩ)',
+                'Yatawara South-(යටවර දකුණ)',
+                'Mahadurupitiya-(මහදුරුපිටිය)',
+                'Delgoda-(දෙල්ගොඩ)',
+                'Yatawara North-(යටවර උතුර)',
+                'Begamuwa Thalahitiya-(බේගමුව තලහිටිය)'
             )
         )
     );
