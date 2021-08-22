@@ -2102,7 +2102,21 @@ class Division {
                 'Hallankanda-(හල්ලන්කන්ද)',
                 'Kudella-(කූඩැල්ල)',
                 'Madurawala East-(මදුරාවල නැගෙනහිර)',
-                'Kudayala-(කුඩායාල)'
+                'Kudayala-(කුඩායාල)',
+                'Pahala Karannagoda-(පහළ කරන්නාගොඩ)',
+                'Anguruwathota-(අඟුරුවාතොට)',
+                'Madurawala West-(මදුරාවල බටහිර)',
+                'Keselhenawa-(කෙසෙල්හේනාව)',
+                'Karannagoda-(කරන්නාගොඩ)',
+                'Ihala Karannagoda-(ඉහළ කරන්නාගොඩ)',
+                'Katuhena-(කටුහේන)',
+                'Warakagoda North-(වරකාගොඩ උතුර)',
+                'Warakagoda West-(වරකාගොඩ බටහිර)',
+                'Warakagoda South-(වරකාගොඩ දකුණ)',
+                'Warakagoda East-(වරකාගොඩ නැගෙනහිර)',
+                'Nahalla-(නාහල්ල)',
+                'Pahalagoda-(පහළගොඩ)',
+                'Ihalagoda-(ඉහළගොඩ)'
             )
         )
     );
