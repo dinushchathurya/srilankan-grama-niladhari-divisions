@@ -2117,6 +2117,28 @@ class Division {
                 'Nahalla-(නාහල්ල)',
                 'Pahalagoda-(පහළගොඩ)',
                 'Ihalagoda-(ඉහළගොඩ)'
+            ),
+            'Millaniya' => array(
+                'Gungamuwa-(ගුංගමුව)',
+                'Bellanthudawa-(බැල්ලන්තුඩාව)',
+                'Kelesgamuwa-(කෙලෙස්ගමුව)',
+                'Welikala-(වැලිකල)',
+                'Thibbotugoda-(තිබ්බොටුගොඩ)',
+                'Lenawara-(ලෙනවර)',
+                'Haltota-(හල්තොට)',
+                'Langana-(ලඟාන)',
+                'Deldorawatta-(දෙල්දොරවත්ත)',
+                'Millaniya-(මිල්ලනිය)',
+                'Raddegoda-(රද්දෙගොඩ)',
+                'Delkada-(දැල්කඩ)',
+                'Paragasthota-(පරගස්තොට)',
+                'Dikhena-(දික්හේන)',
+                'Arakagoda-(අරකගොඩ)',
+                'Kennanthudawa-(කැන්නන්තුඩාව)',
+                'Mawathgama-(මාවත්ගම)',
+                'Yalagala-(යාලගල)',
+                'Labugama-(ලබුගම)'
+
             )
         )
     );
