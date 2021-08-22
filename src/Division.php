@@ -2459,7 +2459,25 @@ class Division {
                 'Agalawatta-(අගලවත්ත)',
                 'Kekulalanda North-(කැකුලන්ද උතුර)',
                 'Dapiligoda-(දාපිලිගොඩ)',
-                'Wandurabba-(වදුරබ්බ)'
+                'Wandurabba-(වදුරබ්බ)',
+                'Yatiyana East-(යටියන නැගෙනහිර)',
+                'Pinnagoda-(පින්නගොඩ)',
+                'Bodhiyakanda-(බෝධියකන්ද)',
+                'Mulatiyana-(මුලටියන)',
+                'Ridirekhagama-(රිදීරේඛාගම)',
+                'Kithulgoda-(කිතුල්ගොඩ)',
+                'Kithulgoda South-(කිතුල්ගොඩ දකුණ)',
+                'Kuda Kalupahana-(කුඩා කළුපහන)',
+                'Maha Kalupahana-(මහකළුපහන)',
+                'Kevitiyagala North-(කෙවිටියගල උතුර)',
+                'Diyapattugama-(දියපත්තුගම)',
+                'Kurupita-(කුරුපිට)',
+                'Harankahapatha-(හරන්කහපත)',
+                'Kevitiyagala-(කෙවිටියගල)',
+                'Polgampala-(පොල්ගම්පල)',
+                'Polgampala East-(පොල්ගම්පල නැගෙනහිර)',
+                'Rathmale East-(රත්මලේ නැගෙනහිර)',
+                'Rathmale-(රත්මලේ)'
             )
         )
     );
