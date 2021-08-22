@@ -2440,7 +2440,7 @@ class Division {
                 'Walagedara South-(වලගෙදර දකුණ)',
                 'Kurudippita-(කුරැදිප්පිට)',
                 'Lewwanduwa West-(ලෙව්වන්දූව බටහිර)',
-                'Lewwanduwa East-(ලෙව්වන්දූව නැගෙනහිර	)',
+                'Lewwanduwa East-(ලෙව්වන්දූව නැගෙනහිර)',
                 'Madawala-(මඩවල)'
             )
         )
