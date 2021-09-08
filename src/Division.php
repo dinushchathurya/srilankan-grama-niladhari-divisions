@@ -2586,6 +2586,25 @@ class Division {
                 'Walallavita South-(වලල්ලාවිට දකුණ)',
                 'Thotaha-(තොටහ)'
             )
+        ),
+        'Kandy' => array(
+            'Thumpane' => array(
+                'Meegahahena South-(මීගහහේන දකුණ)',
+                'Meegahahena-(මීගහහේන)',
+                'Galabawa-(ගලබාව)',
+                'Kobbegala-(කොබ්බෑගල)',
+                'Ambagahahena-(අඹගහහේන)',
+                'Rockhill-(රොක්හිල්)',
+                'Akkarawatta-(අක්කර වත්ත)',
+                'Bonakot-(බොනකොට්)',
+                'Haddapitiya-(හද්දාපිටිය)',
+                'Delgasyaya-(දෙල්ගස්යාය)',
+                'Gallenawatta-(ගල්ලෙනවත්ත)',
+                'Kandanhena East-(කදන්හේන නැගෙනහිර)',
+                'Namalthenna-(නාමල්තැන්න)',
+                'Alawattegama-(අලවත්තේගම)',
+                'Kumburegama-(කුඹුරේගම)'
+            )
         )
     );
 }
