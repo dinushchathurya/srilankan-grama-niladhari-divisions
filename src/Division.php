@@ -2500,7 +2500,29 @@ class Division {
                 'Viharagama-(විහාරගම)',
                 'Kapugama-(කපුගම)',
                 'Bellana-(බෙල්ලන)',
-                'Yakupitiya-(යකුපිටිය)'
+                'Yakupitiya-(යකුපිටිය)',
+                'Lathpandura-(ලත්පඳුර)',
+                'Kamburawala-(කඹුරාවල)',
+                'Baduraliya-(බදුරලිය)',
+                'Diggoda-(දිග්ගොඩ)',
+                'Midalana-(මිදලන)',
+                'Morapitiya South-(මොරපිටිය දකුණ)',
+                'Athwelthota-(අත්වැල්තොට)',
+                'Diganna-(දිගන්න)',
+                'Batahena-(බටහේන)',
+                'Hedigalla-(හැඩිගල්ල)',
+                'Magura East-(මගුර නැගෙනහිර)',
+                'Magura West-(මගුර බටහිර)',
+                'Addaragoda-(අද්දරගොඩ)',
+                'Penigala-(පැණිගල)',
+                'Kalugala-(කළුගල)',
+                'Athale-(අතලේ)',
+                'Ingurudaluwa-(ඉඟුරුදළුව)',
+                'Bollunna-(බොල්ලුන්න)',
+                'Kalukandawala-(කළුකන්දාව)',
+                'Batagodavila-(බටගොඩවිල)',
+                'Boralugoda-(බොරළුගොඩ)',
+                'Thiniyawala-(තිනියාවල)'
             )
         )
     );
