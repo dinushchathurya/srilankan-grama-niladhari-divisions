@@ -2656,6 +2656,23 @@ class Division {
                 'Minigamuwa-(මිනිගමුව)',
                 'Minigamuwa Ihala-(මිනිගමුව ඉහළ)',
                 'Thennewela-(තැන්නේවෙල)'
+            ),
+            'Poojapitiya' => array(
+                'Egodamulla North-(එගොඩමුල්ල උතුර)',
+                'Ihalamulla-(ඉහළ මුල්ල)',
+                'Dehiwatta-(දෙහිවත්ත)',
+                'Egodamulla South-(එගොඩමුල්ල දකුණ)',
+                'Pahala Kithulgolla-(පහළකිතුල්ගොල්ල)',
+                'Alawatta-(අලවත්ත)',
+                'Uda Kithulgolla-(උඩකිතුල්ගොල්ල)',
+                'Ankumbura South-(අංකුඹුර දකුණ)',
+                'Ankumbura North-(අංකුඹුර උතුර)',
+                'Uggala Janapadaya-(උග්ගල ජනපදය)',
+                'Pahala Pallegama-(පල්ලෙගම පහළ)',
+                'Welgala-(වැල්ගාල)',
+                'Ankumbura Udagama-(අංකුඹුර උඩගම)',
+                'Kovila muduna-(කෝවිල මුදුන)',
+                'Galhinna-(ගල්හින්න)'
             )
         )
     );
