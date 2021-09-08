@@ -2681,7 +2681,17 @@ class Division {
                 'Wewala North-(වෑවල උතුර)',
                 'Udahena-(උඩහේන)',
                 'Siyapathgama-(සියපත්ගම)',
-                'Pathirada-(පතිරාද)'
+                'Pathirada-(පතිරාද)',
+                'Udahigulwala-(උඩහිඟුල්වල)',
+                'Pahala Hingulwala-(පහළ හිඟුල්වල)',
+                'Rambukewala-(රඹුකේවල)',
+                'Godahena-(ගොඩහේන)',
+                'Kahatagasthenna-(කහටගස්තැන්න)',
+                'Watagoda-(වටගොඩ)',
+                'Dolapihilla North-(දොළපිහිල්ල උතුර)',
+                'Dolapihilla South-(දොළපිහිල්ල දකුණ)',
+                'Weligalla-(වැලිගල්ල)',
+                '-(කළුවාන උතුර)'
             )
         )
     );
