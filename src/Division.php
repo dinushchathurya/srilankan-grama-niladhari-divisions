@@ -2672,7 +2672,16 @@ class Division {
                 'Welgala-(වැල්ගාල)',
                 'Ankumbura Udagama-(අංකුඹුර උඩගම)',
                 'Kovila muduna-(කෝවිල මුදුන)',
-                'Galhinna-(ගල්හින්න)'
+                'Galhinna-(ගල්හින්න)',
+                'Galkanda-(ගල්කන්ද)',
+                'Palliya Kotuwa-(පල්ලිය කොටුව)',
+                'Batagolladeniya-(බටගොල්ලදෙනිය)',
+                'Watagalathenna-(වටගලතැන්න)',
+                'Morankanda-(මොරන්කන්ද)',
+                'Wewala North-(වෑවල උතුර)',
+                'Udahena-(උඩහේන)',
+                'Siyapathgama-(සියපත්ගම)',
+                'Pathirada-(පතිරාද)'
             )
         )
     );
