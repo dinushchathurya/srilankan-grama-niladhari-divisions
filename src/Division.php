@@ -2603,7 +2603,22 @@ class Division {
                 'Kandanhena East-(කදන්හේන නැගෙනහිර)',
                 'Namalthenna-(නාමල්තැන්න)',
                 'Alawattegama-(අලවත්තේගම)',
-                'Kumburegama-(කුඹුරේගම)'
+                'Kumburegama-(කුඹුරේගම)',
+                'Ban Anga-(බාංඅංග)',
+                'Ethamulla-(ඈතමුල්ල)',
+                'Palukopiwatta-(පාළුකෝපිවත්ත)',
+                'Damunugasthenna-(දමුණුගස්තැන්න)',
+                'Galagedara West-(ගලගෙදර බටහිර)',
+                'Udapitiya-(උඩපිටිය)',
+                'Galagedara Madige south-(ගලගෙදර මඩිගේ දකුණ)',
+                'Galagedara-(ගලගෙදර)',
+                'Galagedara Madige-(ගලගෙදර මඩිගේ)',
+                'Pethigewela-(පෙතිගේවෙල)',
+                'Udalagama-(උදලාගම)',
+                'Gunadaha-(ගුණදාහ)',
+                'Medagoda Pahala-(මැදගොඩ පහල)',
+                'Opalla-(ඕපල්ල)',
+                'Gangodapitiya-(ගංගොඩපිටිය)'
             )
         )
     );
