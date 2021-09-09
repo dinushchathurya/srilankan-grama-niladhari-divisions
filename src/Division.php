@@ -2784,6 +2784,20 @@ class Division {
                 'Pitiyegedara-(පිටියේ ගෙදර)',
                 'Yatirawana	-(යටි‍රාවණ)',
                 'Meegammana-(මීගම්මන)',
+                'Meegammana West-(මීගම්මන බටහිර)',
+                'Galadeniya-(ගලදෙණිය)',
+                'Udathalavinna-(උඩතලවින්න)',
+                'Pallethalavinna Ihala-(පල්ලෙතලවින්න ඉහළ)',
+                'Moonamale-(මූණමලේ)',
+                'Kendaliyadda-(කැන්දලියද්ද)',
+                'Girakaduwa-(ගිරාකඩුව)',
+                'Ambathanna-(අඹතැන්න)',
+                'Molagodayawatta-(මොලගොඩයාවත්ත)',
+                'Megodagama-(මෙගොඩගම)',
+                'Egodagama-(එගොඩගම)',
+                'Millanga-(මිල්ලංග)',
+                'Pallethalavinna-(පල්ලෙතලවින්න)',
+                'Udathalavinna Madige-(උඩතලවින්න මඩි‍ගේ)',
                 'Hamindagoda-(හාමින්දාගොඩ)'
             )
 
