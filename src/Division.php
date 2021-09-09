@@ -2762,7 +2762,31 @@ class Division {
                 'Waragashinna-(වරාගස්හින්න)',
                 'Kurudugahaela-(කුරුඳුගහඇල)',
                 'Uggala-(උග්ගල)'
+            ),
+            'Pathadumbara' => array(
+                'Yatawara-(යටවර)',
+                'Yatawara Kandagama-(යටවර කන්දගම)',
+                'Ihala Yatawara-(ඉහළ යටවර)',
+                'Udurawana-(උඩුරාවණ)',
+                'Doragamuwa-(දොරගමුව)',
+                'Bogahakumbura-(බෝගහකුඹුර)',
+                'Deegahawathura-(දීගහවතුර)',
+                'Mahakumbura-(මහකුඹුර)',
+                'Mandandawela-(මන්දණ්ඩා‍වෙල)',
+                'Paranagama-(පරණගම)',
+                'Aluthgama-(අළුත්ගම)',
+                'Walpaladeniya-(වල්පලදෙණිය)',
+                'Puwakgahadeniya-(පුවක්ගහදෙණිය)',
+                'Wattegama-(ව‍ත්තේගම)',
+                'Wattegama North-(වත්තේගම උතුර)',
+                'Gunembill-(ගුනැමිබිල්ල)',
+                'Eriyagasthenna-(ඊරියගස්තැන්න)',
+                'Pitiyegedara-(පිටියේ ගෙදර)',
+                'Yatirawana	-(යටි‍රාවණ)',
+                'Meegammana-(මීගම්මන)',
+                'Hamindagoda-(හාමින්දාගොඩ)'
             )
+
         )
     );
 }
