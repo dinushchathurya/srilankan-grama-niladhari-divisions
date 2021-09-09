@@ -2798,6 +2798,23 @@ class Division {
                 'Millanga-(මිල්ලංග)',
                 'Pallethalavinna-(පල්ලෙතලවින්න)',
                 'Udathalavinna Madige-(උඩතලවින්න මඩි‍ගේ)',
+                'Meegamawatta-(මීගමවත්ත)',
+                'Madawala Madige-(මඩවල මඩි‍ගේ)',
+                'Madawala-(මඩවල)',
+                'Walala-(වලල)',
+                'Ketakahala-(කැටකහල)',
+                'Thalkotuwa-(තල්කොටුව)',
+                'Napana-(නාපාන)',
+                'Leemagahadeniya-(ලීමගහදෙණිය)',
+                'Pihilladeniya-(පිහිල්ලදෙණිය)',
+                'Gunnepana Madige-(ගුන්නෑපාන මඩි‍ගේ)',
+                'Polgolla-(පොල්ගොල්ල)',
+                'Balanagala-(බලනගල)',
+                'Nawayalathenna-(නවයාලතැන්න)',
+                'Kahalla-(කහල්ල)',
+                'Kalugalawatta-(කළුගලවත්ත)',
+                'Galewatta-(ගාලේවත්ත)',
+                'Abasingama-(අබසිංගම)',
                 'Hamindagoda-(හාමින්දාගොඩ)'
             )
 
