@@ -2901,6 +2901,16 @@ class Division {
             'Minipe' => array(
                 'Galamuduna-(ගලමුදුන)',
                 'Dungolla-(දුංගොල්ල)',
+                'Thotillagasella-(තොටිල්ලගස්ඇල්ල)',
+                'Palugolla-(පලුගොල්ල)',
+                'Wewere-(වේවරේ)',
+                'Dehemigama-(දැහැමිගම)',
+                'Himbutuwa-(හිඹුටුව)',
+                'Udattawa North-(උඩත්තව උතුර)',
+                'Pallegaladebokka-(පල්ලේගල්දෙබොක්ක)',
+                'Udagaladebokka-(උඩගලදෙබොක්ක)',
+                'Udaththawa-(උඩත්තව)',
+                'Bebiya-(බැබීය)'
             )
         )
     );
