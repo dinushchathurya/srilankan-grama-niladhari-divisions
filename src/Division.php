@@ -2937,6 +2937,14 @@ class Division {
                 'Weraganthota-(වේරගංතොට)',
                 'Morayaya-(මොරයාය)',
                 'Lunumadalaketiya-(ලුණුමඩලාකැටිය)',
+                'Diyabubula-(දියබුබුල)',
+                'Handaganawa-(හදගනාව)',
+                'Batumulla-(බටුමුල්ල)',
+                'Udayagala-(උඩයාගල)',
+                'Asamodagamyaya-(අසමෝදගම්යාය)',
+                'Ambagahapelessa-(අඔගහපැලැස්ස)',
+                'Minipe-(මිනිපේ)',
+                'Kolonyaya-(කොලොංයාය)',
                 'Bebiya-(බැබීය)'
             )
         )
