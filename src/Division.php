@@ -3122,7 +3122,7 @@ class Division {
                 'Rajawella South-(රජවැල්ල දකුණ)',
                 'Aluth Pallekele-(අලුත්පල්ලේකැලේ)',
                 'Wijaya Sri Gama-(විජය ශ්‍රීගම)',
-                'Ambakotewatta-(අඹකොටේවත්ත)'
+                'Ambakotewatta-(අඹකොටේවත්ත)',
             )
         )
     );
