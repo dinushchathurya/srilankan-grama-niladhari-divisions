@@ -3005,6 +3005,15 @@ class Division {
                 'Hathiyalwela-(හාතියල්වෙල)',
                 'Mangoda-(මාංගොඩ)',
                 'Rambukpotha-(රඹුක්පොත)',
+                'Namadagala-(නමදගල)',
+                'Metideniya-(මැටිදෙණිය)',
+                'Doraliyadda South-(දකුණු දොරලියද්ද)',
+                'Wegala-(වෑගල)',
+                'Meegahamaditta-(මීගහමඩිත්ත)',
+                'Rambukwella-(රඹුක්වැල්ල)',
+                'Udawela-(උඩවෙල)',
+                'Wellethota-(වැල්ලෙතොට)',
+                'Vilamuna-(විල්අමුණ)',
                 'Rambukwella East-(රඹුක්වැල්ල නැ/)'
             )
         )
