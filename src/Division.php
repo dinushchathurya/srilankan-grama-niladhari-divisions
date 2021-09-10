@@ -3014,6 +3014,15 @@ class Division {
                 'Udawela-(උඩවෙල)',
                 'Wellethota-(වැල්ලෙතොට)',
                 'Vilamuna-(විල්අමුණ)',
+                'Karalliyadda-(කරල්ලියද්ද)',
+                'Ambagahalanda-(අඹගහලන්ද)',
+                'Hijrapura-(හිජ්ජාපුර)',
+                'Galambalama-(ගල්අම්බලම)',
+                'Maberiyathenna-(මාබේරියතැන්න)',
+                'Ellepola-(ඇල්ලෙපොල)',
+                'Wewegama-(වැවේගම)',
+                'Senarathwela-(සෙනරත්වෙල)',
+                'Nithulemada-(නිතුලේමඩ)',
                 'Rambukwella East-(රඹුක්වැල්ල නැ/)'
             )
         )
