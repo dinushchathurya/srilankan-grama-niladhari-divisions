@@ -2959,7 +2959,16 @@ class Division {
                 'Galkotuwa-(ගල්කොටුව)',
                 'Werapitiya-(වේරපිටිය)',
                 'Werathenna-(වේරතැන්න)',
-                'Randiwela-(රංදිවෙල)'
+                'Randiwela-(රංදිවෙල)',
+                'Bobebila-(බෝබැබිල)',
+                'Duckwariya-(ඩක්වාරිය)',
+                'Rangala Aluthwatta-(රංගල අලුත්වත්ත)',
+                'පර්න්ඩේල්-(පර්න්ඩේල්)',
+                'Hakmana-(හක්මන)',
+                'Birnside-(බර්න්සයිඩ්)',
+                'Rangala-(රංගල)',
+                'Weladarada-(වෙළදරාඩ)',
+                'Makuldeniya-(මකුල්දෙණිය)'
             )
         )
     );
