@@ -2946,6 +2946,20 @@ class Division {
                 'Minipe-(මිනිපේ)',
                 'Kolonyaya-(කොලොංයාය)',
                 'Bebiya-(බැබීය)'
+            ),
+            'Medadumbara' => array(
+                'Elliyadda-(ඇල්ලියද්ද)',
+                'Thunisgala-(තුනිස්ගල)',
+                'Gonawala-(ගෝනවල)',
+                'Thangappuwa-(තංගප්පුව)',
+                'Kotaganga-(කොටගග)',
+                'Bulathwatta-(බුලත්වත්ත)',
+                'Galabodawatta-(ගලබඩවත්ත)',
+                'Nagolla-(නාගොල්ල)',
+                'Galkotuwa-(ගල්කොටුව)',
+                'Werapitiya-(වේරපිටිය)',
+                'Werathenna-(වේරතැන්න)',
+                'Randiwela-(රංදිවෙල)'
             )
         )
     );
