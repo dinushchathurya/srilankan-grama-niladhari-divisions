@@ -3103,7 +3103,26 @@ class Division {
                 'Kengalla-(කෙන්ගල්ල)',
                 'Nithulethenna-(නිතුලේතැන්න)',
                 'Dambarawa-(දම්බරාව)',
-                'Pilawala South-(පිලවල දකුණ)'
+                'Pilawala South-(පිලවල දකුණ)',
+                'Mahawatta East-(මහවත්ත නැගෙනහිර)',
+                'Mahawatta North-(මහවත්ත උතුර)',
+                'Mahawatta West-(මහවත්ත බටහිර)',
+                'Mahawatta South-(මහවත්ත දකුණ)',
+                'Arangala North-(අරංගල උතුර)',
+                'Karattamada-(කර්ත්තමඩ)',
+                'Arangala South-(අරංගල දකුණ)',
+                'Galmaduwa-(ගල්මඩුව)',
+                'Nattarampotha-(නත්තරම්පොත)',
+                'Kundasale North-(කුණ්ඩසාලෙ උතුර)',
+                'Kundasale South-(කුන්ඩසාලෙ දකුණ)',
+                'Balagolla West-(බලගොල්ල බටහිර)',
+                'Balagolla East-(බලගොල්ල නැගෙනහිර)',
+                'Aswalapitiya-(අස්වලපිටිය)',
+                'Diyabubula-(දියබුබුල)',
+                'Rajawella South-(රජවැල්ල දකුණ)',
+                'Aluth Pallekele-(අලුත්පල්ලේකැලේ)',
+                'Wijaya Sri Gama-(විජය ශ්‍රීගම)',
+                'Ambakotewatta-(අඹකොටේවත්ත)'
             )
         )
     );
