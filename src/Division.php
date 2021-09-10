@@ -3001,7 +3001,11 @@ class Division {
                 'Ranmulla-(රංමුල්ල)',
                 'Maharawela-(මහරවෙල)',
                 'Kurukohogama-(කුරුකොහොගම)',
-                'Kiribattalawa-(කිරිබත්තලාව)'
+                'Kiribattalawa-(කිරිබත්තලාව)',
+                'Hathiyalwela-(හාතියල්වෙල)',
+                'Mangoda-(මාංගොඩ)',
+                'Rambukpotha-(රඹුක්පොත)',
+                'Rambukwella East-(රඹුක්වැල්ල නැ/)'
             )
         )
     );
