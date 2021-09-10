@@ -2867,6 +2867,13 @@ class Division {
                 'Kiripattiya-(කිරිපට්ටිය)',
                 'Halyala-(හාල්යාල)',
                 'Mediriya-(මැදිරිය)',
+                'Gangoda-(ගංගොඩ)',
+                'Udapitawala-(උඩපිටවල)',
+                'Mahawala-(මහවල)',
+                'Pitawala Udagammedda-(පිටවල උඩගම්මැද්ද)',
+                'Godakumbura-(ගොඩකුඹුර)',
+                'Mediwaka-(මැදිවක)',
+                'Karandagolla-(කරඳගොල්ල)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
             ),
         )
