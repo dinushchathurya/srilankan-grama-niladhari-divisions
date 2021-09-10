@@ -2988,7 +2988,20 @@ class Division {
                 'Madeniyawaka-(මාදෙණියාවක)',
                 'Embalagama-(ඇඹලගම)',
                 'Siridigana-(සිරිදිගන)',
-                'Nugepathana-(නුගේපතන)'
+                'Nugepathana-(නුගේපතන)',
+                'Watapana-(වටපාන)',
+                'Ambalagala-(අම්බලගල)',
+                'Gangasirigama-(ගඟසිරිගම)',
+                'Madapola-(මඩපොළ)',
+                'Kandegama-(කන්දේගම)',
+                'Randeniya-(රංදෙණිය)',
+                'Pallebage-(පල්ලේබාගේ)',
+                'Gabbela-(ගබ්වෙල)',
+                'Udispattuwa-(උඩිස්පත්තුව)',
+                'Ranmulla-(රංමුල්ල)',
+                'Maharawela-(මහරවෙල)',
+                'Kurukohogama-(කුරුකොහොගම)',
+                'Kiribattalawa-(කිරිබත්තලාව)'
             )
         )
     );
