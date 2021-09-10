@@ -2978,7 +2978,17 @@ class Division {
                 'Putuhapuwa-(පුටුහපුව)',
                 'Udabage-(උඩබාගේ)',
                 'Amupitiya-(අමුපිටිය)',
-                'Godamunna-(ගොඩමුන්න	)'
+                'Godamunna-(ගොඩමුන්න)',
+                'Katugoda-(කටුගොඩ)',
+                'Heeloya-(හීල්ඔය)',
+                'Kandekumbura-(කන්දෙකුඹුර)',
+                'Retiyagama-(රේටියගම)',
+                'Poddalgoda-(පොද්දල්ගොඩ)',
+                'Nilgala-(නිල්ගල)',
+                'Madeniyawaka-(මාදෙණියාවක)',
+                'Embalagama-(ඇඹලගම)',
+                'Siridigana-(සිරිදිගන)',
+                'Nugepathana-(නුගේපතන)'
             )
         )
     );
