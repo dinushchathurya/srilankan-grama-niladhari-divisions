@@ -3023,6 +3023,15 @@ class Division {
                 'Wewegama-(වැවේගම)',
                 'Senarathwela-(සෙනරත්වෙල)',
                 'Nithulemada-(නිතුලේමඩ)',
+                'Udathenna-(උඩතැන්න)',
+                'Medamahanuwara-(මැදමහනුවර)',
+                'Bomure-(බෝමුරේ)',
+                'Rajagala-(රජගල)',
+                'Wathuliyadda-(වතුලියද්ද)',
+                'Moragahamula-(මොරගහමුල)',
+                'Mahadoraliyadda-(මහදොරලියද්ද)',
+                'Puwakgahadiwela-(පුවක්ගහදිවෙල)',
+                'Ambale-(අම්බාලේ)',
                 'Rambukwella East-(රඹුක්වැල්ල නැ/)'
             )
         )
