@@ -3041,6 +3041,18 @@ class Division {
                 'Welapahala-(වෙලපහළ)',
                 'Meda Gammedda-(මැදගම්මැද්ද)',
                 'Rambukwella East-(රඹුක්වැල්ල නැ/)'
+            ),
+            'Kundasale' => array(
+                'Dunuhappawa-(දුනුහප්පාව)',
+                'Naranpanawa West-(නාරම්පනාව බටහිර)',
+                'Kandekumbura-(කන්දේකුඹුර)',
+                'Alawathugiriya gama-(අලවතුගිරියගම)',
+                'Galpihilla-(ගල්පිහිල්ල)',
+                'Makkanigama-(මක්කානිගම)',
+                'Wavinna-(වාවින්න)',
+                'Pallegama-(පල්ලේගම)',
+                'Maharathenna West-(මහරතැන්න බටහිර)',
+                'Udagama North-(උඩගම උතුර)',
             )
         )
     );
