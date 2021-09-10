@@ -2968,7 +2968,17 @@ class Division {
                 'Birnside-(බර්න්සයිඩ්)',
                 'Rangala-(රංගල)',
                 'Weladarada-(වෙළදරාඩ)',
-                'Makuldeniya-(මකුල්දෙණිය)'
+                'Makuldeniya-(මකුල්දෙණිය)',
+                'Waradiwela-(වරදිවෙල)',
+                'Giddawa-Waradiwela-(ගිඩ්ඩාව වරදිවෙල)',
+                'Dunhinna-(දූන්හින්න)',
+                'Maneluwa-(මානෙළුව)',
+                'Giddawa-(ගිඩ්ඩව)',
+                'Weliketiya-(වැලිකැටිය)',
+                'Putuhapuwa-(පුටුහපුව)',
+                'Udabage-(උඩබාගේ)',
+                'Amupitiya-(අමුපිටිය)',
+                'Godamunna-(ගොඩමුන්න	)'
             )
         )
     );
