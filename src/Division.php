@@ -2874,6 +2874,16 @@ class Division {
                 'Godakumbura-(ගොඩකුඹුර)',
                 'Mediwaka-(මැදිවක)',
                 'Karandagolla-(කරඳගොල්ල)',
+                'Rambukwella East-(රඹුක්වැල්ල නැගෙනහිර)',
+                'Rambukwella West-(රඹුක්වැල්ල බටහිර)',
+                'Denapitiya-(දේනාපිටිය)',
+                'Nugethenna East-(නුගේතැන්න නැගෙනහිර)',
+                'Nugethenna West-(නුගේතැන්න බටහිර)',
+                'Kevulgama-(කෙවුල්ගම)',
+                'Ganegala-(ගනේගල)',
+                'Minuwangamuwa-(මිනුවන්ගමුව)',
+                'Kalalgamuwa-(කලල්ගමුව)',
+                'Pitawala-(පිටවල)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
             ),
         )
