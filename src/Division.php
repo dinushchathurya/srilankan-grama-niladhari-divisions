@@ -3032,6 +3032,14 @@ class Division {
                 'Mahadoraliyadda-(මහදොරලියද්ද)',
                 'Puwakgahadiwela-(පුවක්ගහදිවෙල)',
                 'Ambale-(අම්බාලේ)',
+                'Meeriyagolla-(මීරියගොල්ල)',
+                'Bambaragahadeniya-(බඹරගහදෙණිය)',
+                'Meegahalanda-(මීගහලන්ද)',
+                'Sandasiri Dunuvila-(සඳසිරිදුනුවිල)',
+                'Thennalanda-(තැන්නලන්ද)',
+                'Udagammedda-(උඩගම්මැද්ද)',
+                'Welapahala-(වෙලපහළ)',
+                'Meda Gammedda-(මැදගම්මැද්ද)',
                 'Rambukwella East-(රඹුක්වැල්ල නැ/)'
             )
         )
