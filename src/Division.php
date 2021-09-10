@@ -2898,6 +2898,10 @@ class Division {
                 'Kalawala-(කලවල)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
             ),
+            'Minipe' => array(
+                'Galamuduna-(ගලමුදුන)',
+                'Dungolla-(දුංගොල්ල)',
+            )
         )
     );
 }
