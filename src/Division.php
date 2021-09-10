@@ -2884,6 +2884,18 @@ class Division {
                 'Minuwangamuwa-(මිනුවන්ගමුව)',
                 'Kalalgamuwa-(කලල්ගමුව)',
                 'Pitawala-(පිටවල)',
+                'Dewahandiya East-(දේවහන්දිය නැගෙනහිර)',
+                'Hapukanda East-(හපුකන්ද නැගෙනහිර)',
+                'Hapukanda West-(හපුකන්ද බටහිර)',
+                'Madugalla Udagammedda-(මඩුගල්ල උඩගම්මැද්ද)',
+                'Madugalla North-(මඩුගල්ල උතුර)',
+                'Madugalla South-(මඩුගල්ල දකුණ)',
+                'Pamunethenna-(පමුනේතැන්න)',
+                'Devinnegama-(දේවින්නේගම)',
+                'Bamgarabedda East-(බඹරබැද්ද නැගෙනහිර	)',
+                'Bambarabedda West-(බඹරබැද්ද බටහිර)',
+                'Pitigoda-(පිටිගොඩ)',
+                'Kalawala-(කලවල)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
             ),
         )
