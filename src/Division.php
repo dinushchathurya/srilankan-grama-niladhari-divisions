@@ -2848,8 +2848,20 @@ class Division {
                 'Kalugaloya-(කළුගල්ඔය)',
                 'Dumbaragama-(දුම්බරගම)',
                 'Pallewela-(පල්ලේවෙල)',
+                'Udawela-(උඩවෙල)',
+                'Kandegama-(කන්දේගම)',
+                'Wadawalakanda-(වදවලකන්ද)',
+                'Kobonilla-(කොබෝනිල්ල)',
+                'Pallekanda-(පල්ලේකන්ද)',
+                'Hanwella-(හංවැල්ල)',
+                'Andideniya-(ආඬිදෙණිය)',
+                'Dambagahapitiya-(දඔගහපිටිය)',
+                'Poppitiya-(පෝප්පිටිය)',
+                'Oyathenna-(ඔයතැන්න)',
+                'Thalagune-(තලගුනේ)',
+                'Gedaramada-(ගෙදරමඩ)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
-            )
+            ),
         )
     );
 }
