@@ -2910,6 +2910,15 @@ class Division {
                 'Pallegaladebokka-(පල්ලේගල්දෙබොක්ක)',
                 'Udagaladebokka-(උඩගලදෙබොක්ක)',
                 'Udaththawa-(උඩත්තව)',
+                'Dambagahawela-(දඔගහවෙළ)',
+                'Kindigoda North-(කිදිගොඩ උතුර)',
+                'Udawela-(උඩවෙළ)',
+                'Kindigoda South-(කිදිගොඩ දකුණ)',
+                'Ulpathagama-(උල්පතගම)',
+                'Ambagolla-(අඹගොල්ල)',
+                'Dambepitiya-(දඹේපිටිය)',
+                'Welgahawadiya-(වැල්ගහවාඩිය)',
+                'Mahayaya North-(මහයාය උතුර)',
                 'Bebiya-(බැබීය)'
             )
         )
