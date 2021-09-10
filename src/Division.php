@@ -2860,6 +2860,13 @@ class Division {
                 'Oyathenna-(ඔයතැන්න)',
                 'Thalagune-(තලගුනේ)',
                 'Gedaramada-(ගෙදරමඩ)',
+                'Kirigankumbura-(කිරිගංකුඹු‍ර)',
+                'Udadumbara-(උඩදුම්බර)',
+                'Nawanagala-(නවනගල)',
+                'Hunnasgiriya-(හුන්නස්ගිරිය)',
+                'Kiripattiya-(කිරිපට්ටිය)',
+                'Halyala-(හාල්යාල)',
+                'Mediriya-(මැදිරිය)',
                 'Dewahandiya West-(දේවහන්දිය බටහිර)'
             ),
         )
