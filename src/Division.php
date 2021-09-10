@@ -2816,6 +2816,22 @@ class Division {
                 'Galewatta-(ගාලේවත්ත)',
                 'Abasingama-(අබසිංගම)',
                 'Hamindagoda-(හාමින්දාගොඩ)'
+            ),
+            'Panvila'=> array(
+                'Kelebokka-(කැලෑබොක්ක)',
+                'Watakele-(වටකැලේ)',
+                'Mahapathana-(මහපතන)',
+                'Kosgama-(කොස්ගම)',
+                'Thawalanthenna-(තවලන්තැන්න)',
+                'Gomaraya-(ගෝමරය)',
+                'Beddegama-(බැද්දෙගම)',
+                'Arattana-(අරත්තන)',
+                'Madulkele-(මඩුල්කැලේ)',
+                'Hathale-(හාතලේ)',
+                'Angammana-(අංගම්මන)',
+                'Udugoda-(උඩුගොඩ)',
+                'Pitawala-(පිටවල)',
+                'Panvila-(පන්විල)'
             )
 
         )
