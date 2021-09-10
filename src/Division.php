@@ -2832,8 +2832,24 @@ class Division {
                 'Udugoda-(උඩුගොඩ)',
                 'Pitawala-(පිටවල)',
                 'Panvila-(පන්විල)'
+            ),
+            'Udadumbara' => array(
+                'Meemure-(මීමුරේ)',
+                'Kumbukgolla-(කුඹුක්ගොල්ල)',
+                'Kaikawala-(කයිකාවල)',
+                'Pusse Ela-(පුස්සේඇල)',
+                'Karambaketiya-(කරඹකැටිය)',
+                'Gerandigala-(ගැරඩිගල)',
+                'Moonamalpelessa-(මූණමල්පැලැස්ස)',
+                'Kalugala-(කළුගල)',
+                'Udailuka-(උඩ ඉළුක)',
+                'Padupola-(පදුපොල)',
+                'Udakumbura-(උඩකුඹුර)',
+                'Kalugaloya-(කළුගල්ඔය)',
+                'Dumbaragama-(දුම්බරගම)',
+                'Pallewela-(පල්ලේවෙල)',
+                'Dewahandiya West-(දේවහන්දිය බටහිර)'
             )
-
         )
     );
 }
