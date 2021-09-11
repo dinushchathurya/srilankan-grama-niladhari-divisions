@@ -3135,6 +3135,16 @@ class Division {
                 'Mahaweli Uyana-(මහවැලි උයන)',
                 'Watapuluwa South-(වටපුළුව දකුණ)',
                 'Aruppala East-(අරුප්පොල නැගෙනහිර)',
+                'Aruppala West-(අරුප්පොල බටහිර)',
+                'Watapuluwa West-(වටපුළුව බටහිර)',
+                'Mahaiyawa-(මහයියාව)',
+                'Mapanawathura-(මාපනාවතුර)',
+                'Poorna Watta East-(පූර්ණවත්ත නැගෙනහිර)',
+                'Poornawatta West-(පූර්ණවත්ත බටහිර)',
+                'Asgiriya-(අස්ගිරිය)',
+                'Bahirawa Kanda-(බහිරව කන්ද)',
+                'Nuwara Dodanwala-(නුවර දොඩන්වල)',
+                'Aniwatta East-(අනිවත්ත නැගෙනහිර)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
