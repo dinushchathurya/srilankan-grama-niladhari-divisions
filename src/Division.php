@@ -3259,6 +3259,22 @@ class Division {
                 'Kurundugahamada-(කුරුඳුගහමඩ)',
                 'Seewaleekanda-(සීවලීකන්ද)',
                 'Mahatenna-(මහතැන්න)',
+                'Bulathgolla-(බුලත්ගොල්ල)',
+                'Yatihalagala Udagama-(යටිහලගල/උඩගම)',
+                'Pahala Doolwala-(පහල දුල්වල)',
+                'Udamulla-(උඩුමුල්ල)',
+                'Gohagoda-(ගොහාගොඩ)',
+                'Wegiriya-(වේගිරිය)',
+                'Polwatta-(පොල්වත්ත)',
+                'Madapathagama-(මඩපතගම)',
+                'Banwelgolla-(බාන්වැල්ගොල්ල)',
+                'Narangaskumbura-(නාරංගස්කුඹුර)',
+                'Pallemulla-(පල්ලෙමුල්ල)',
+                'Hal Pallegama-(හල් පල්ලෙගම)',
+                'Bogahakanda-(බෝගහකන්ද)',
+                'Yatihalagala Pallegama-(යටි /පල්ලෙගම)',
+                'Haloluwa-(හල්ලොළුව)',
+                'Kumburegedara-(කුඹුරේගෙදර)',
                 'Waratenna-(වරාතැන්න)'
             )
         )
