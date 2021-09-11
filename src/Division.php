@@ -3145,6 +3145,16 @@ class Division {
                 'Bahirawa Kanda-(බහිරව කන්ද)',
                 'Nuwara Dodanwala-(නුවර දොඩන්වල)',
                 'Aniwatta East-(අනිවත්ත නැගෙනහිර)',
+                'Katukele West-(කටුකැලේ බටහිර)',
+                'Katukele-(කටුකැලේ)',
+                'Ihala Katukele-(ඉහළ කටුකැලේ)',
+                'Mahanuwara-(මහනුවර)',
+                'Lewella-(ලේවැල්ල)',
+                'Thalwatta-(තල්වත්ත)',
+                'Boowelikada-(බුවැලිකඩ)',
+                'Malwatta-(මල්වත්ත)',
+                'Bogambara-(බෝගම්බර)',
+                'Deiyannewela-(දෙයියන්නෙවෙල)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
