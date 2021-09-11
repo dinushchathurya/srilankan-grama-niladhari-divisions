@@ -3239,6 +3239,16 @@ class Division {
                 'Ruwanpuraya-(රුවන්පුරය)',
                 'Kurunduwatta-(කුරුදුවත්ත)',
                 'Ihala Karanduwawala-(කරඩුවාවල ඉහල)',
+                'Pahala Karanduwawala-(කරඩුවාවල පහල)',
+                'Owathenna-(ඕවතැන්න)',
+                'Yahalathenna-(යහලතැන්න බටහිර)',
+                'Yahalathenna Kanda-(යහලතැන්න කන්ද)',
+                'Kulugammana-(කුළුගම්මන)',
+                'Uguressapitiya-(උගුරැස්සපිටිය)',
+                'Senarathgama South-(සෙනෙරත්ගම දකුණ)',
+                'Kondadeniya-(කොණ්ඩදෙණිය)',
+                'Etamurungagoda-(ඇටමුරුංගාගොඩ)',
+                'Yatiwawala-(යටිවාවල)',
                 'Waratenna-(වරාතැන්න)'
             )
         )
