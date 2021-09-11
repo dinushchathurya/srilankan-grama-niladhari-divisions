@@ -3229,6 +3229,16 @@ class Division {
                 'Pallebokalawela-(පල්ලෙබොකලවෙල)',
                 'Ranawana West-(රණවන බටහිර)',
                 'Ranawana East-(රණවන නැගෙනහිර)',
+                'Uduwawala East-(උඩුවාවල නැගෙනහිර)',
+                'Senarathgama North-(සෙනෙරත්ගම උතුර)',
+                'Wathuwala-(වතුවල)',
+                'Uyanwatta-(උයන්වත්ත)',
+                'Dadahogama-(දඩහෝගම)',
+                'Mapamadulla-(මාපාමඩුල්ල)',
+                'Malagammana-(මාලගම්මන)',
+                'Ruwanpuraya-(රුවන්පුරය)',
+                'Kurunduwatta-(කුරුදුවත්ත)',
+                'Ihala Karanduwawala-(කරඩුවාවල ඉහල)',
                 'Waratenna-(වරාතැන්න)'
             )
         )
