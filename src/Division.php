@@ -3155,6 +3155,16 @@ class Division {
                 'Malwatta-(මල්වත්ත)',
                 'Bogambara-(බෝගම්බර)',
                 'Deiyannewela-(දෙයියන්නෙවෙල)',
+                'Nagasthenna-(නාගස්තැන්න)',
+                'Suduhumpala East-(සුදුහුම්පොල නැගෙනහිර)',
+                'Suduhumpala West-(සුදුහුම්පොල බටහිර)',
+                'Welata-(වෙල්අට)',
+                'Aniwatta West-(අනිවත්ත බටහිර)',
+                'Gatambe-(ගැටඹේ)',
+                'Pahala Eriyagama-(පහළ ඊරියගම)',
+                'Godagandeniya-(ගොඩගන්දෙනිය)',
+                'Palle Peradeniya-(පල්ලේ පේරාදෙණිය)',
+                'Udabowala-(උඩබෝවල)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
