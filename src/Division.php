@@ -3201,7 +3201,14 @@ class Division {
                 'Bothota-(බෝතොට)',
                 'Attaragama East-(අත්තරගම නැගෙනහිර)',
                 'Attaragama-(අත්තරගම)',
-                'Gonigoda-Palkumbura-(ගෝනිගොඩ/පල්කුඹුර)'
+                'Gonigoda-Palkumbura-(ගෝනිගොඩ/පල්කුඹුර)',
+                'Gonigoda-(ගෝනිගොඩ)',
+                'Attaragama South-(අත්තරගම දකුණ)',
+                'Hapugoda-(හපුගොඩ)',
+                'Udabokalawela-(උඩබොකලවෙල)',
+                'Rajapihilla-(රජපිහිල්ල)',
+                'Ulladupitiya East-(උල්ලඳුපිටිය නැගෙනහිර)',
+                'Ulladupitiya West-(උල්ලදුපිටිය බටහිර)',
             )
         )
     );
