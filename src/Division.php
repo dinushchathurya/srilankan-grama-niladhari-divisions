@@ -3175,6 +3175,16 @@ class Division {
                 'Thennekumbura-(තැන්නෙකුඹුර)',
                 'Ampitiya Pallegama-(අම්පිටිය පල්ලෙගම)',
                 'Meddegama-(මැද්දේගම)',
+                'Ampitiya Udagama South-(අම්පිටිය උඩගම දකුණ)',
+                'Wewathenna-(වැවතැන්න)',
+                'Ulpathakumbura-(උල්පත්කුඹුර)',
+                'Gurudeniya West-(ගුරුදෙණිය බටහිර)',
+                'Gurudeniya East-(ගුරුදෙණිය නැගෙනහිර)',
+                'Maligathenna-(මාලිගාතැන්න)',
+                'Gurudeniya Dambawela-(ගුරුදෙණිය දඹවෙල)',
+                'Lewla-(ලෙව්ල)',
+                'Ketawala-(කැටවල)',
+                'Bowalawatta-(බෝලවත්ත)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
