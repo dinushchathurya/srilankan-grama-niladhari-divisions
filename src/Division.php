@@ -3123,6 +3123,19 @@ class Division {
                 'Aluth Pallekele-(අලුත්පල්ලේකැලේ)',
                 'Wijaya Sri Gama-(විජය ශ්‍රීගම)',
                 'Ambakotewatta-(අඹකොටේවත්ත)'
+            ),
+            'Kandy Four Gravets & Gangawata Korale' => array(
+                'Mawilmada-(මාවිල්මඩ)',
+                'Siyambalagasthenna-(සියඹලාගස්තැන්න)',
+                'Pitakanda Gama-(පිටකන්දගම)',
+                'Senkadagala-(සෙංකඩගල)',
+                'Wattaranthenna-(වට්ටාරන්තැන්න)',
+                'Nittawela-(නිත්තවෙල)',
+                'Watapuluwa-(වටපුළුව)',
+                'Mahaweli Uyana-(මහවැලි උයන)',
+                'Watapuluwa South-(වටපුළුව දකුණ)',
+                'Aruppala East-(අරුප්පොල නැගෙනහිර)',
+                'Mahakanda-(මහකන්ද)'
             )
         )
     );
