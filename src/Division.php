@@ -3219,6 +3219,16 @@ class Division {
                 'Viguhumpola-(විගුහුම්පොල)',
                 'Hiriyalagammana-(හිරියලගම්මන)',
                 'Thittapajjala-(තිත්තපජ්ජල)',
+                'Thittapajjala North-(තිත්තපජ්ජල උතුර)',
+                'Nugawela-(නුගවෙල)',
+                'Batuambe-(බටුඅඹේ)',
+                'Endaruthenna-(එඩරුතැන්න)',
+                'Embulpure-(ඇඹුල්පුරේ)',
+                'Uduwawala West-(උඩුවාවල බටහිර)',
+                'Uduwawala North-(උඩුවාවල උතුර)',
+                'Pallebokalawela-(පල්ලෙබොකලවෙල)',
+                'Ranawana West-(රණවන බටහිර)',
+                'Ranawana East-(රණවන නැගෙනහිර)',
                 'Waratenna-(වරාතැන්න)'
             )
         )
