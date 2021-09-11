@@ -3209,6 +3209,17 @@ class Division {
                 'Rajapihilla-(රජපිහිල්ල)',
                 'Ulladupitiya East-(උල්ලඳුපිටිය නැගෙනහිර)',
                 'Ulladupitiya West-(උල්ලදුපිටිය බටහිර)',
+                'Arambegama-(අරඹේගම)',
+                'Aladeniya-(අලදෙනිය)',
+                'Hedeniya-(හෑදෙනිය)',
+                'Rajasinhagama-(රාජසිංහගම)',
+                'Palkumbura-(පල්කුඹුර)',
+                'Narangoda-(නාරංගොඩ)',
+                'Kurundugolla-(කුරුඳුගොල්ල)',
+                'Viguhumpola-(විගුහුම්පොල)',
+                'Hiriyalagammana-(හිරියලගම්මන)',
+                'Thittapajjala-(තිත්තපජ්ජල)',
+                'Waratenna-(වරාතැන්න)'
             )
         )
     );
