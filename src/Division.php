@@ -3165,6 +3165,16 @@ class Division {
                 'Godagandeniya-(ගොඩගන්දෙනිය)',
                 'Palle Peradeniya-(පල්ලේ පේරාදෙණිය)',
                 'Udabowala-(උඩබෝවල)',
+                'Bowala-(බෝවල)',
+                'Mulgampala-(මුල්ගම්පොල)',
+                'Heeressagala-(හීරැස්සගල)',
+                'Hanthana Place-(හන්තාන පෙදෙස)',
+                'Ampitiya South-(අම්පිටිය දකුණ)',
+                'Ampitiya North-(අම්පිටිය උතුර)',
+                'Ampitiya Udagama North-(අම්පිටිය උඩගම උතුර)',
+                'Thennekumbura-(තැන්නෙකුඹුර)',
+                'Ampitiya Pallegama-(අම්පිටිය පල්ලෙගම)',
+                'Meddegama-(මැද්දේගම)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
