@@ -3185,6 +3185,10 @@ class Division {
                 'Lewla-(ලෙව්ල)',
                 'Ketawala-(කැටවල)',
                 'Bowalawatta-(බෝලවත්ත)',
+                'Bowalawatta-(බෝලවත්ත)',
+                'Ogastawatta-(ඔගස්ටාවත්ත)',
+                'Uda Peradeniya-(උඩපේරාදෙණිය)',
+                'Hindagala-(හිඳගල)',
                 'Mahakanda-(මහකන්ද)'
             )
         )
