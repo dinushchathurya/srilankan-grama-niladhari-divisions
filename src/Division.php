@@ -3249,6 +3249,16 @@ class Division {
                 'Kondadeniya-(කොණ්ඩදෙණිය)',
                 'Etamurungagoda-(ඇටමුරුංගාගොඩ)',
                 'Yatiwawala-(යටිවාවල)',
+                'Katugasthota-(කටුගස්තොට)',
+                'Inigala-(ඉනිගල)',
+                'Rathmale-(රත්මලේ)',
+                'Hamangoda North-(හමන්ගොඩ උතුර)',
+                'Hamangoda South-(හමංගොඩ දකුණ)',
+                'Uggalla-(උග්ගල්ල)',
+                'Udadoolwala-(උඩදුල්වල)',
+                'Kurundugahamada-(කුරුඳුගහමඩ)',
+                'Seewaleekanda-(සීවලීකන්ද)',
+                'Mahatenna-(මහතැන්න)',
                 'Waratenna-(වරාතැන්න)'
             )
         )
