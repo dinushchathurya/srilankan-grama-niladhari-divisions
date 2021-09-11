@@ -3190,6 +3190,18 @@ class Division {
                 'Uda Peradeniya-(උඩපේරාදෙණිය)',
                 'Hindagala-(හිඳගල)',
                 'Mahakanda-(මහකන්ද)'
+            ),
+            'Harispattuwa' => array(
+                'Amuwandeniya-(අමුවන්දෙනිය)',
+                'Doranegama-(දොරණෑගම)',
+                'Ihagama-(ඉහගම)',
+                'Medawala-(මැදවල)',
+                'Angoda-(අංගොඩ)',
+                'Dembaralawa-(දෙඹරලාව)',
+                'Bothota-(බෝතොට)',
+                'Attaragama East-(අත්තරගම නැගෙනහිර)',
+                'Attaragama-(අත්තරගම)',
+                'Gonigoda-Palkumbura-(ගෝනිගොඩ/පල්කුඹුර)'
             )
         )
     );
