@@ -3356,7 +3356,17 @@ class Division {
                 'Pelawa Pahalagama-(පෑලව පහලගම)',
                 'Gannoruwa West-(ගන්නෝරුව බටහිර)',
                 'Dehigama East-(දෙහිගම නැගෙනහිර)',
-                'Dehigama South-(දෙහිගම දකුණ)'
+                'Dehigama South-(දෙහිගම දකුණ)',
+                'Dehigama North-(දෙහිගම උතුර)',
+                'Dehianga South-(දෙහිඅංග දකුණ)',
+                'Pahala Dodamwala-(පහළ දොඩම්වල)',
+                'Ihala Dodamwala-(දොඩම්වල ඉහළ)',
+                'Udawela Pahalagama-(උඩවෙල පහලගම)',
+                'Munwathugoda-(මුංවතුගොඩ)',
+                'Walgampaya-(වල්ගම්පාය)',
+                'Bathgoda-(බත්ගොඩ)',
+                'Walgampaya-(වල්ගම්පාය)',
+                'Bathgoda-(බත්ගොඩ)'
             )
 
         )
