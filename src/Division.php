@@ -3384,7 +3384,13 @@ class Division {
                 'Kavudupana-(කවුඩුපන)',
                 'Haliyadda-(හලියද්ද)',
                 'Danthure-(දන්තුරේ)',
-                'Siyambalagoda-(සියඹලාගොඩ)'
+                'Siyambalagoda-(සියඹලාගොඩ)',
+                'Parakatawella-(පරකටවැල්ල)',
+                'Imbulmalgama-(ඉඹුල්මල්ගම)',
+                'Diyapalagoda-(දියපලාගොඩ)',
+                'Mangalagama-(මංගලගම)',
+                'Karuwalawatta-(කරුවල වත්ත)',
+                'Gannoruwa Central-(ගන්නෝරුව ම්‍ධ්‍යම)'
             )
 
         )
