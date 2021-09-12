@@ -3428,6 +3428,14 @@ class Division {
                 'Edanduwawa West-(ඒදඩුවාව බටහිර)',
                 'Kiribathkumbura West-(කිරිබත්කුඹුර බටහිර)',
                 'Embilmeegama South-(ඇඹිලිමීගම දකුණ)',
+                'Govindala-(ගෝවින්දල)',
+                'Pilimathalawa-(පිළිමතලාව)',
+                'Ilukwatta-(ඉළුක්වත්ත)',
+                'Madarangoda-(මඩරංගොඩ)',
+                'Kadawathgama-(කඩවත්ගම)',
+                'Kadugannawa Town-(කඩුගන්නාව නගරය)',
+                'Gangoda-(ගංගොඩ)',
+                'Gangoda North-(ගංගොඩ උතුර)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
