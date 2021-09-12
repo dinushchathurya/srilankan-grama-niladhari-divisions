@@ -3521,7 +3521,15 @@ class Division {
                 'New Peradeniya-(නිව් පේරාදෙනිය)',
                 'Karamada South-(කරමඩ දකුණ)',
                 'New Elpitiya North-(නිව් ඇල්පිටිය උතුර)',
-                '-()',
+                'Gelioya-(ගෙලිඔය)',
+                'Dehipagoda West-(දෙහිපාගොඩ බටහිර)',
+                'Dehipagoda East-(දෙහිපාගොඩ නැගනහිර)',
+                'Eladhetta East-(එළදැත්ත නැගෙනහිර)',
+                'Hathnagoda-(හත්නාගොඩ)',
+                'Ketakumbura-(කැටකුඹුර)',
+                'Boowelikada-(බුවැලිකඩ)',
+                'Dodandeniya-(දොඩන්දෙනිය)',
+                'Batupitiya-(බටුපිටිය)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
