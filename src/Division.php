@@ -3595,6 +3595,15 @@ class Division {
                 'Rajathalawa-(රජතලාව)',
                 'Pupuressa-(පුපුරැස්ස)',
                 'Pitawala-(පිටවල)'
+            ),
+            'Pathahewaheta' => array(
+                'Udawelawatta Colony-(උඩුවෙලවත්ත ජනපදය)',
+                'Galthenna-(ගාල්තැන්න)',
+                'Wathuliyadda-(වතුලියද්ද)',
+                'Monarangala-(මොනරංගල)',
+                'Nehiniwela-(නැහිණි‍වෙල)',
+                'Godompitiya-(ගොඩම්පිටිය)',
+                'Hippola-(හිප්පල)'
             )
 
         )
