@@ -3579,6 +3579,21 @@ class Division {
                 'Inguruwatta-(ඉගුරුවත්ත)',
                 'Naranvita-(නාරංවිට)',
                 'Atuwewatta-(අටුවේවත්ත)',
+                'Gampolawatta-(ගම්පොලවත්ත)',
+                'Wewathenna-(වෑවතැන්න)',
+                'Thundeniya-(තුන්දෙනිය)',
+                'Kahawatta-(කහවත්ත)',
+                'Gothatuwela-(ගොතටුවෙල)',
+                'Millagahamula-(මිල්ලගහමුල)',
+                'Pambadeniya-(පඹදෙණිය)',
+                'Panvilathenna-(පන්විලතැන්න)',
+                'Masgolla-(මස්ගොල්ල)',
+                'Thumpelawaka-(තුම්පැලවක)',
+                'Mulgama-(මුල්ගම)',
+                'Ududeniya-(උඩුදෙනිය)',
+                'Hunugala-(හුණුගල)',
+                'Rajathalawa-(රජතලාව)',
+                'Pupuressa-(පුපුරැස්ස)',
                 'Pitawala-(පිටවල)'
             )
 
