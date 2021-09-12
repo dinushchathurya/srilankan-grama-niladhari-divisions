@@ -3560,6 +3560,19 @@ class Division {
                 'Dihitideniya-(දිහිටිදෙනිය)',
                 'Appallagoda East-(අප්පල්ලාගොඩ නැගෙනහිර)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
+            ),
+            'Doluwa' => array(
+                'Galoya-(ගල්ඔය)',
+                'Haloya-(හල්ඔය)',
+                'Wariyagala-(වාරියගල)',
+                'Megoda Kalugamuwa-(මෙගොඩ කළුගමුව)',
+                'Ganegoda-(ගනේගොඩ)',
+                'Godawela-(ගොඩ‍වෙල)',
+                'Nawa Gurukele-(නවගුරුකැලේ)',
+                'Nillamba-(නිල්ලඹ)',
+                'Nawa Nillamba-(නව නිල්ලඹ)',
+                'Palledelthota-(පල්ලේදෙල්තොට)',
+                'Pitawala-(පිටවල)'
             )
 
         )
