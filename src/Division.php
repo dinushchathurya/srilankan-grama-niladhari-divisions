@@ -3334,11 +3334,21 @@ class Division {
                 'Kolugala Pahala-(කොළුගල පහළ)',
                 'Kithuldora-(කිතුල්දොර)',
                 'Aluthgama Pahala-(අලුත්ගම පහල)',
-                '-()',
-                '-()',
-                '-()',
                 'Aluthgama Ihala-(අලුත්ගම ඉහළ)'
+            ),
+            'Yatinuwara' => array(
+                'Alagalla Watta-(අලගල්ල වත්ත)',
+                'Kirimetiya Watta-(කිරිමැටිය වත්ත)',
+                'Pahala Yatigammana-(පහළ යටිගම්මන)',
+                'Yatigammana-(යටිගම්මන)',
+                'Thismada-(තිස්මඩ)',
+                'Kotaligoda North-(කොටලිගො‍ඩ උතුර)',
+                'Udawela Nadithalawa-(උඩවෙල නාඩිතලාව)',
+                'Udawela Pallemaditta-(උඩවෙල පල්ලෙමඩිත්ත)',
+                'Wathurakumbura-(වතුරකුඹුර)',
+                'Gurugama-(ගුරුගම)'
             )
+
         )
     );
 }
