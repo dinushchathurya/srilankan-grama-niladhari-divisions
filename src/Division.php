@@ -3402,7 +3402,13 @@ class Division {
                 'Kandangama North-(කදංගම උතුර)',
                 'Mamudawala-(මාමුඩාවල)',
                 'Maligathenna-(මාලිගාතැන්න)',
-                'Ketakumbura-(කැටකුඹුර)'
+                'Ketakumbura-(කැටකුඹුර)',
+                'Amunupura-(අමුණුපුරය)',
+                'Moragolla Mahakanda-(මොරගොල්ල මහකන්ද)',
+                'Balana-(බලන)',
+                'Weralugolla-(වෙරළුගොල්ල)',
+                'Pahala Mudaliwatta-(පහළ මුදලිවත්ත)',
+                'Mudaliwatta-(මුදලිවත්ත)'
             )
 
         )
