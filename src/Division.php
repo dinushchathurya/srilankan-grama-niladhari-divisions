@@ -3486,6 +3486,14 @@ class Division {
                 'Nikahetiya-(නිකහැටිය)',
                 'Panabokka-(පානබොක්ක)',
                 'Hiddavulla West-(හිද්දවුල බටහිර)',
+                'Hiyarapitiya-(හියාරාපිටිය)',
+                'Heeyawala-(හීයවල)',
+                'Imbuldeniya-(ඉඹුල්දෙනිය)',
+                'Naranwala-(නාරංවල)',
+                'Handessa-(හන්දෙස්ස)',
+                'Piligalla West-(පිලිගල්ල බටහිර)',
+                'Piligalla East-(පිලිගල්ල නැගනහිර)',
+                'Godapola West-(ගොඩපොල බටහිර)'
             )
 
         )
