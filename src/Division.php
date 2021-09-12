@@ -3444,6 +3444,14 @@ class Division {
                 'Kiriwavula East-(කිරිවවුල නැගනහිර)',
                 'Kiriwavula West-(කිරිවවුල බටහිර)',
                 'Aladuwaka-(අලදුවක)',
+                'Pahala Kurukuttla-(පහළ කුරැකුත්තල)',
+                'Kurukuttala Ihala-(කුරුකුත්තල ඉහල)',
+                'Belungala-(බැලුංගල)',
+                'Lagamuwa-(ලගමුව)',
+                'Mathgamuwa-(මාත්ගමුව)',
+                'Urulewaththa-(උරැලෑවත්ත)',
+                'Warakagoda-(වරකාගොඩ)',
+                'Hepana-(හෑපාන)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
