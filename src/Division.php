@@ -3420,6 +3420,14 @@ class Division {
                 'Pilapitiya-(පිලපිටිය)',
                 'Kiribathkumbura East-(කිරිබත්කුඹුර නැ‍ගෙනහිර)',
                 'Dehideniya East-(දෙහිදෙණිය නැගෙනහිර)',
+                'Kendakaduwa-(කැන්දකඩුව)',
+                'Gannoruwa East-(ගන්නෝරුව නැගෙනහිර)',
+                'Uda Eriyagama East-(උඩඊරියගම/නැ)',
+                'Uda Eriyagama West-(උඩඊරියගම /බටහිර)',
+                'Edanduwawa East-(ඒදඬුවාව නැගෙනහිර)',
+                'Edanduwawa West-(ඒදඩුවාව බටහිර)',
+                'Kiribathkumbura West-(කිරිබත්කුඹුර බටහිර)',
+                'Embilmeegama South-(ඇඹිලිමීගම දකුණ)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
