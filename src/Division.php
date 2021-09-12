@@ -3493,7 +3493,30 @@ class Division {
                 'Handessa-(හන්දෙස්ස)',
                 'Piligalla West-(පිලිගල්ල බටහිර)',
                 'Piligalla East-(පිලිගල්ල නැගනහිර)',
-                'Godapola West-(ගොඩපොල බටහිර)'
+                'Godapola West-(ගොඩපොල බටහිර)',
+                'Godapola East-(ගොඩපොල නැගනහිර)',
+                'Kamburadeniya-(කඹුරාදෙණිය)',
+                'Meewaladeniya-(මීවලදෙණිය)',
+                'Arattana-(අරත්තන)',
+                'Davulagala-(දවුලගල)',
+                'Arawwawela-(ඇරව්වාවල)',
+                'Rangama-(රංගම)',
+                'Wathupola-(වතුපොළ)',
+                'Manikkawa-(මානික්කාව)',
+                'Elpitikanda-(ඇල්පිටිකන්ද)',
+                'Kooradeniya-(කුරදෙනිය)',
+                'Ambanwala-(අඹන්වල)',
+                'Werawala East-(වේරවල නැගෙනහිර)',
+                'Werawala West-(වෙරවල බටහිර)',
+                'Siyambalagoda-(සියඹළාගොඩ)',
+                'Meddegoda-(මැද්දේගොඩ)',
+                'Embakka-(ඇම්බැක්ක)',
+                'Ambarapola-(අම්බරපොළ)',
+                'Eladhetha West-(එළදැත්ත බටහිර)',
+                'Ihala Pethiyagoda-(‍ඉහළ පෙතියාගොඩ)',
+                'Pethiyagoda West-(පෙතියගොඩ බටහිර)',
+                'Pethiyagoda East-(පෙතියාගොඩ නැගෙනහිර)',
+                'Palle Aludeniya-(පල්ලේ අළුදෙනිය)'
             )
 
         )
