@@ -3572,6 +3572,13 @@ class Division {
                 'Nillamba-(නිල්ලඹ)',
                 'Nawa Nillamba-(නව නිල්ලඹ)',
                 'Palledelthota-(පල්ලේදෙල්තොට)',
+                'Gurukele-(ගුරුකැලේ)',
+                'Legumdeniya-(ලැගුම්දෙනිය)',
+                'Orayanwatta-(ඔරයන්වත්ත)',
+                'Doluwa-(දොළුව)',
+                'Inguruwatta-(ඉගුරුවත්ත)',
+                'Naranvita-(නාරංවිට)',
+                'Atuwewatta-(අටුවේවත්ත)',
                 'Pitawala-(පිටවල)'
             )
 
