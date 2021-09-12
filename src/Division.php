@@ -3546,6 +3546,14 @@ class Division {
                 'Thalawathura-(තලවතුර)',
                 'Muruthagahamula-(මුරුතගහමුල)',
                 'Pitawalawatta-(පිටවලවත්ත)',
+                'New Elpitiya South-(නිව් ඇල්පිටිය දකුණ)',
+                'Polgahaanga-(පොල්ගහඅංග)',
+                'Delgahapitiya-(දෙල්ගහපිටිය)',
+                'Weligalla-(වැලිගල්ල)',
+                'Uda Aludeniya-(උඩඅලුදෙනිය)',
+                'Palkumbura-(පල්කුඹුර)',
+                'Lunugama-(ලුණුගම)',
+                'Hondiyadeniya-(හොඩියාදෙණිය)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
