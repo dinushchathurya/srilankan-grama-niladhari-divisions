@@ -3530,6 +3530,14 @@ class Division {
                 'Boowelikada-(බුවැලිකඩ)',
                 'Dodandeniya-(දොඩන්දෙනිය)',
                 'Batupitiya-(බටුපිටිය)',
+                'Bambaradeniya-(බඹ්රදෙණිය)',
+                'Pilapitiya-(පිලපිටිය)',
+                'Rangoda-(රංගොඩ)',
+                'Ambagasthenna-(අඔගස්තැන්න)',
+                'Welamboda-(වෙලම්බොඩ)',
+                'Liyangahawaththa-(ලියන්ගහවත්ත)',
+                'Maweekumbura North-(මාවිකුඹුර උතුර)',
+                'Maveekumbura South-(මාවිකුඹුර දකුණ)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
