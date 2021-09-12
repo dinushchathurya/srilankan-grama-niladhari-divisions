@@ -3346,7 +3346,17 @@ class Division {
                 'Udawela Nadithalawa-(උඩවෙල නාඩිතලාව)',
                 'Udawela Pallemaditta-(උඩවෙල පල්ලෙමඩිත්ත)',
                 'Wathurakumbura-(වතුරකුඹුර)',
-                'Gurugama-(ගුරුගම)'
+                'Gurugama-(ගුරුගම)',
+                'Dehianga North-(දෙහිඅංග උතුර)',
+                'Kobbekaduwa-(කොබ්බෑකඩුව)',
+                'Ihala Kobbekaduwa-(ඉහළ කොබ්බෑකඩුව)',
+                'Pelawa Ihalagama-(පෑලෑව ඉහළගම)',
+                'Yahalathenna-(යහලතැන්න)',
+                'Pelawa Ihala Meda-(පෑලව ඉහළ මැද)',
+                'Pelawa Pahalagama-(පෑලව පහලගම)',
+                'Gannoruwa West-(ගන්නෝරුව බටහිර)',
+                'Dehigama East-(දෙහිගම නැගෙනහිර)',
+                'Dehigama South-(දෙහිගම දකුණ)'
             )
 
         )
