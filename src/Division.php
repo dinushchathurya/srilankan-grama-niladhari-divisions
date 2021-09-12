@@ -3452,6 +3452,14 @@ class Division {
                 'Urulewaththa-(උරැලෑවත්ත)',
                 'Warakagoda-(වරකාගොඩ)',
                 'Hepana-(හෑපාන)',
+                'Gadaladeniya South-(ගඩලාදෙණිය දකුණ)',
+                'Deliwala-(දැලිවල)',
+                'Pamunuwa West-(පමුණුව බටහිර)',
+                'Pamunuwa East-(පමුණුව නැගනහිර)',
+                'Mampitiya-(මාම්පිටිය)',
+                'Rajagiriya-(රාජගිරිය)',
+                'Hendeniya West-(‍හේ‍න්දෙණිය බටහිර)',
+                'Hendeniya East-(‍හේ‍න්දෙණිය නැගනහිර)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
