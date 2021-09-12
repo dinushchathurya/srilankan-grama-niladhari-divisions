@@ -3554,6 +3554,11 @@ class Division {
                 'Palkumbura-(පල්කුඹුර)',
                 'Lunugama-(ලුණුගම)',
                 'Hondiyadeniya-(හොඩියාදෙණිය)',
+                'Wegiriya West-(වේගිරිය බටහිර)',
+                'Kotagaloluwa-(කොටගල්ඔලුව)',
+                'Deldeniya-(දැල්දෙණිය)',
+                'Dihitideniya-(දිහිටිදෙනිය)',
+                'Appallagoda East-(අප්පල්ලාගොඩ නැගෙනහිර)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
