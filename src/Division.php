@@ -3414,7 +3414,13 @@ class Division {
                 'Kotabogoda-(කොටබෝගොඩ)',
                 'Urapola-(ඌරාපොල)',
                 'Arambegama West-(අරඹේගම බටහිර)',
-                'Embilmeegama North-(ඇඹිල්මීගම උතුර)'
+                'Embilmeegama North-(ඇඹිල්මීගම උතුර)',
+                'Ranawana-(රණවන)',
+                'Bulumulla-(බුළුමුල්ල)',
+                'Pilapitiya-(පිලපිටිය)',
+                'Kiribathkumbura East-(කිරිබත්කුඹුර නැ‍ගෙනහිර)',
+                'Dehideniya East-(දෙහිදෙණිය නැගෙනහිර)',
+                'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
         )
