@@ -3390,7 +3390,13 @@ class Division {
                 'Diyapalagoda-(දියපලාගොඩ)',
                 'Mangalagama-(මංගලගම)',
                 'Karuwalawatta-(කරුවල වත්ත)',
-                'Gannoruwa Central-(ගන්නෝරුව ම්‍ධ්‍යම)'
+                'Gannoruwa Central-(ගන්නෝරුව ම්‍ධ්‍යම)',
+                'Dehideniya West-(දෙහිදෙණිය බටහිර)',
+                'Sooriyagoda-(සූරියගොඩ)',
+                'Malgammana-(මල්ගම්මන)',
+                'Moladanda-(මොලදණ්ඩ)',
+                'Giragama-(ගිරාගම)',
+                'Aranbegama East-(අරඹේගම නැගෙනහිර)'
             )
 
         )
