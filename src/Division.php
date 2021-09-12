@@ -3610,7 +3610,17 @@ class Division {
                 'Pinnagolla-(පින්නගොල්ල)',
                 'Sigharagama-(සිංහාරගම)',
                 'Haragama-(හාරගම)',
-                'Kapuliyadda East-(කපුලියද්ද නැගෙනහිර)'
+                'Kapuliyadda East-(කපුලියද්ද නැගෙනහිර)',
+                'Kapuliyadda West-(කපුලියද්ද බටහිර)',
+                'Doolmure-(දුල්මුරේ)',
+                'Bootawatta North-(බූටාවත්ත උතුර)',
+                'Thalathuoya East-(තලාතුඔය නැගෙනහිර)',
+                'Ankelipitiya-(අංකෙළිපිටිය)',
+                'Batagalla-(බටගල්ල)',
+                'Ethulgama East-(ඇතුල්ගම නැගෙනහිර)',
+                'Ethulgama North-(ඇතුල්ගම උතුර)',
+                'Uduwela Pallegama East-(උඩුවෙල පල්ලෙගම නැගෙනහිර)',
+                'Udawela Pallegama West-(උඩුවෙල පල්ලෙගම බටහිර)'
             )
 
         )
