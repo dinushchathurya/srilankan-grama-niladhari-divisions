@@ -3603,7 +3603,14 @@ class Division {
                 'Monarangala-(මොනරංගල)',
                 'Nehiniwela-(නැහිණි‍වෙල)',
                 'Godompitiya-(ගොඩම්පිටිය)',
-                'Hippola-(හිප්පල)'
+                'Hippola-(හිප්පල)',
+                'Kossinna-(කොස්සින්න)',
+                'Thalathuoya West-(තලාතුඔය බටහිර)',
+                'Pussathenna-(පුස්සතැන්න)',
+                'Pinnagolla-(පින්නගොල්ල)',
+                'Sigharagama-(සිංහාරගම)',
+                'Haragama-(හාරගම)',
+                'Kapuliyadda East-(කපුලියද්ද නැගෙනහිර)'
             )
 
         )
