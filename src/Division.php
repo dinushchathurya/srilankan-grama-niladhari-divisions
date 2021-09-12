@@ -3408,7 +3408,13 @@ class Division {
                 'Balana-(බලන)',
                 'Weralugolla-(වෙරළුගොල්ල)',
                 'Pahala Mudaliwatta-(පහළ මුදලිවත්ත)',
-                'Mudaliwatta-(මුදලිවත්ත)'
+                'Mudaliwatta-(මුදලිවත්ත)',
+                'Panabokka-(පානබොක්ක)',
+                'Kandangama South-(කඳංගම දකුණ)',
+                'Kotabogoda-(කොටබෝගොඩ)',
+                'Urapola-(ඌරාපොල)',
+                'Arambegama West-(අරඹේගම බටහිර)',
+                'Embilmeegama North-(ඇඹිල්මීගම උතුර)'
             )
 
         )
