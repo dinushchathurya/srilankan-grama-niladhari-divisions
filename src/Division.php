@@ -3436,6 +3436,14 @@ class Division {
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)',
                 'Gangoda-(ගංගොඩ)',
                 'Gangoda North-(ගංගොඩ උතුර)',
+                'Werellamana-(වැරැල්ලමාන)',
+                'Thalawaththa-(තලවත්ත)',
+                'Boyagama-(බෝයගම)',
+                'Gangoda South-(ගංගොඩ දකුණ)',
+                'Gadaladeniya North-(ගඩලාදෙණිය උතුර)',
+                'Kiriwavula East-(කිරිවවුල නැගනහිර)',
+                'Kiriwavula West-(කිරිවවුල බටහිර)',
+                'Aladuwaka-(අලදුවක)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
