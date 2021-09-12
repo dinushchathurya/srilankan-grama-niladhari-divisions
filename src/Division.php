@@ -3460,6 +3460,14 @@ class Division {
                 'Rajagiriya-(රාජගිරිය)',
                 'Hendeniya West-(‍හේ‍න්දෙණිය බටහිර)',
                 'Hendeniya East-(‍හේ‍න්දෙණිය නැගනහිර)',
+                'Penideniya-(පැනිදෙනිය)',
+                'Sangabogama-(ස‍ග‍‍බෝගම)',
+                'Meewathura-(මිවතුර)',
+                'Angunawala East-(අගුණා‍වල නැගනහිර)',
+                'Angunawala West-(අගුණාවල බටහිර)',
+                'Yalegoda East-(යා‍ලේ‍ගොඩ නැගනහිර)',
+                'Yalegoda West-(යාලේගොඩ බටහිර)',
+                'Alapalawala East-(අලපලාවල නැගෙනහිර)',
                 'Kadugannawa Town-(කඩුගන්නාව නගරය)'
             )
 
