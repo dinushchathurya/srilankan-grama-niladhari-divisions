@@ -3366,7 +3366,13 @@ class Division {
                 'Walgampaya-(වල්ගම්පාය)',
                 'Bathgoda-(බත්ගොඩ)',
                 'Walgampaya-(වල්ගම්පාය)',
-                'Bathgoda-(බත්ගොඩ)'
+                'Bathgoda-(බත්ගොඩ)',
+                'Doluwa East-(දෙළුව නැගෙනහිර)',
+                'Doluwa West-(දොළුව බටහිර)',
+                'Kotaligoda South-(කොටලිගොඩ දකුණ)',
+                'Menikdiwela-(මැණික්දිවෙල)',
+                'Pottepitiya-(පොත්තෙපිටිය)',
+                'Ihala Alagalla-(ඉහළ අල්ගල්ල)'
             )
 
         )
