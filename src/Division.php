@@ -3372,7 +3372,13 @@ class Division {
                 'Kotaligoda South-(කොටලිගොඩ දකුණ)',
                 'Menikdiwela-(මැණික්දිවෙල)',
                 'Pottepitiya-(පොත්තෙපිටිය)',
-                'Ihala Alagalla-(ඉහළ අල්ගල්ල)'
+                'Ihala Alagalla-(ඉහළ අල්ගල්ල)',
+                'Godigamuwa-(ගොඩිගමුව)',
+                'Motana Dekinda-(මොටනදෙකිඳ)',
+                'Gondeniya-(ගෝන්දෙණිය)',
+                'Madiligama-(මාදිලිගම)',
+                'Udarathmeewala-(උඩරත්මීවල)',
+                'Pahala Rathmeewala-(පහල රත්මීවල)'
             )
 
         )
