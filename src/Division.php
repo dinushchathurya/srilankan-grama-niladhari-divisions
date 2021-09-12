@@ -3378,7 +3378,13 @@ class Division {
                 'Gondeniya-(ගෝන්දෙණිය)',
                 'Madiligama-(මාදිලිගම)',
                 'Udarathmeewala-(උඩරත්මීවල)',
-                'Pahala Rathmeewala-(පහල රත්මීවල)'
+                'Pahala Rathmeewala-(පහල රත්මීවල)',
+                'Deldeniya-(දෙල්දෙනිය)',
+                'Walgowwagoda-(වල්ගොව්වාගොඩ)',
+                'Kavudupana-(කවුඩුපන)',
+                'Haliyadda-(හලියද්ද)',
+                'Danthure-(දන්තුරේ)',
+                'Siyambalagoda-(සියඹලාගොඩ)'
             )
 
         )
