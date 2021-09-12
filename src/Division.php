@@ -3516,7 +3516,13 @@ class Division {
                 'Ihala Pethiyagoda-(‍ඉහළ පෙතියාගොඩ)',
                 'Pethiyagoda West-(පෙතියගොඩ බටහිර)',
                 'Pethiyagoda East-(පෙතියාගොඩ නැගෙනහිර)',
-                'Palle Aludeniya-(පල්ලේ අළුදෙනිය)'
+                'Palle Aludeniya-(පල්ලේ අළුදෙනිය)',
+                'Karamada North-(කරමඩ උතුර)',
+                'New Peradeniya-(නිව් පේරාදෙනිය)',
+                'Karamada South-(කරමඩ දකුණ)',
+                'New Elpitiya North-(නිව් ඇල්පිටිය උතුර)',
+                '-()',
+                'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
         )
