@@ -3538,6 +3538,14 @@ class Division {
                 'Liyangahawaththa-(ලියන්ගහවත්ත)',
                 'Maweekumbura North-(මාවිකුඹුර උතුර)',
                 'Maveekumbura South-(මාවිකුඹුර දකුණ)',
+                'Watadeniya-(වටදෙනිය)',
+                'Viharagama-(විහාරගම)',
+                'Ganhatha-(ගංහත)',
+                'Daskara-(දස්කර)',
+                'Wegiriya East-(වේගිරිය නැගෙනහිර)',
+                'Thalawathura-(තලවතුර)',
+                'Muruthagahamula-(මුරුතගහමුල)',
+                'Pitawalawatta-(පිටවලවත්ත)',
                 'Appallagoda West-(අප්පල්ලාගොඩ බටහිර)'
             )
 
