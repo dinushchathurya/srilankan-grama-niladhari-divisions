@@ -3477,7 +3477,15 @@ class Division {
                 'Hiddavulla East-(හිද්දවුල්ල නැගනහිර)',
                 'Ganguldeniya-(ගගුල්දෙනිය)',
                 'Wattappola-(වට්ටප්පොල)',
-                'Walagedara North-(වලගෙදර උතුර)'
+                'Walagedara North-(වලගෙදර උතුර)',
+                'Udagama-(උඩගම)',
+                'Aluthkanda-(අලුත්කන්ද)',
+                'Sadikkawatta-(සාදික්කාවත්ත)',
+                'Kovilakanda-(කෝවිලකන්ද)',
+                'Walagedara South-(වලගෙදර දකුණ)',
+                'Nikahetiya-(නිකහැටිය)',
+                'Panabokka-(පානබොක්ක)',
+                'Hiddavulla West-(හිද්දවුල බටහිර)',
             )
 
         )
