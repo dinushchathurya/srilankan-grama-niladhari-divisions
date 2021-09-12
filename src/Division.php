@@ -3396,7 +3396,13 @@ class Division {
                 'Malgammana-(මල්ගම්මන)',
                 'Moladanda-(මොලදණ්ඩ)',
                 'Giragama-(ගිරාගම)',
-                'Aranbegama East-(අරඹේගම නැගෙනහිර)'
+                'Aranbegama East-(අරඹේගම නැගෙනහිර)',
+                'Kudaoya-(කුඩාඔය)',
+                'Kurunduwatta-(කුරුඳුවත්ත)',
+                'Kandangama North-(කදංගම උතුර)',
+                'Mamudawala-(මාමුඩාවල)',
+                'Maligathenna-(මාලිගාතැන්න)',
+                'Ketakumbura-(කැටකුඹුර)'
             )
 
         )
