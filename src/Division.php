@@ -3696,6 +3696,10 @@ class Division {
                 'Kolambissa East-(කොළඹිස්ස නැගෙනහිර)',
                 'Nawaneliya-(නවනැලිය)',
                 'Kotagepitiya-(කොටගේපිටිය)',
+                'Wadiyagoda-(වාඩියගොඩ)',
+                'Pattiyagama Udagama-(පට්ටියගම උඩගම)',
+                'Pattiyagama Gabadama North-(පට්ටියගම ගබඩාගම උතුර)',
+                'Pattiyagama Gabadama South-(පට්ටියගම ගබඩාගම දකුණ)'
             )
 
         )
