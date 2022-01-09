@@ -3669,6 +3669,33 @@ class Division {
                 'Pothgoda-(පොත්ගොඩ)',
                 'Kahambiliyawa-(කහඹිලියාව)',
                 'Nilawala-(නීලවල)'
+            ),
+            'Delthota' => array(
+                'Perawatta West-(පේරවත්ත බටහිර)',
+                'Perawatta East-(පේරවත්ත නැගෙනහිර)',
+                'Palugama-(පාලුගම)',
+                'Udadelthota-(උඩදෙල්තොට)',
+                'Galaha-(ගලහ)',
+                'Suduwella-(සුදුවැල්ල)',
+                'Greatweliya-(ග්‍රේට්වැලිය)',
+                'Bawlanawatta Janapadaya-(බවුලාන වත්ත ජනපදය)',
+                'Maussawa-(මාවුස්සාව)',
+                'Wanahapuwa-(වනහපුව)',
+                'Bopitiya Nagaraya-(බෝපිටිය නගරය)',
+                'Medakekila-(මැදකැකිල)',
+                'Karagaskada South-(කරගස්කඩ දකුණ)',
+                'Karagaskada North-(කරගස්කඩ උතුර)',
+                'Gonangoda-(ගෝනංගොඩ)',
+                'Kandegama-(කන්දේගම)',
+                'Watakepotha-(වැටකේපොත)',
+                'Pattiyagama Pallegama-(පට්ටියගම පල්ලේගම)',
+                'Kirawanaketiya-(කිරවනාකැටිය)',
+                'Kolambissa West-(කොළඹිස්ස බටහිර)',
+                'Murapola West-(මුරපොළ බටහිර)',
+                'Murapola East-(මුරපොල නැගෙනහිර)',
+                'Kolambissa East-(කොළඹිස්ස නැගෙනහිර)',
+                'Nawaneliya-(නවනැලිය)',
+                'Kotagepitiya-(කොටගේපිටිය)',
             )
 
         )
