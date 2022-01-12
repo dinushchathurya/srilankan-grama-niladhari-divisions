@@ -3751,8 +3751,39 @@ class Division {
                 'Weliganga-(වැලිගඟ)',
                 'Kalugalhinna-(කළුගල්හින්න)',
                 'Mawathura-(මාවතුර)'
+            ),
+            'Ganga Ihala Korale' => array(
+                'Polmalagama-(පොල්මලගම)',
+                'Galpaya-(ගල්පාය)',
+                'Herakola-(හැරකොළ)',
+                'Wallahagoda-(වල්ලහගොඩ)',
+                'Maligapurana-(මාලිගාපුරණ)',
+                'Gampolawela-(ගම්පොලවෙල)',
+                'Ethgala North-(ඇත්ගාල උතුර)',
+                'Thembiligala-(තැඹිලිගල)',
+                'Pellapitiya North-(පැල්ලපිටිය උතූර)',
+                'Mallwattagama-(මල්වත්තගම)',
+                'Giraulla-(ගිරාඋල්ල)',
+                'Karagala-(කරගල)',
+                'Watakedeniya-(වැටකේදෙණිය)',
+                'Uduwella-(උඩුවැල්ල)',
+                'Patithalawa-(පටිතලාව)',
+                'Kelly Group-(කෙලිගෲප්)',
+                'Alugolla-(අළුගොල්ල)',
+                'Gamunupura-(ගැමුණුපුර)',
+                'Yatapana-(යටපාන)',
+                'Pellapitiya South-(පැල්ලපිටිය දකුණ)',
+                'Ulapane North-(උලපනේ උතුර)',
+                'Udagama-(උඩගම)',
+                'Ethgala West-(ඇත්ගාල බටහිර)',
+                'Ethgala East-(ඇත්ගාල නැගෙනහිර)',
+                'Sinhapura-(සිංහපුර)',
+                'Ulapane South-(උලපනේ දකුණ)',
+                'Pitakanda-(පිටකන්ද)',
+                'Udahenthenna-(උඩහේන්තැන්න)',
+                'Rakshawa-(රක්ෂාව)',
+                'Miyanagolla-(මියනගොල්ල)',
             )
-
         )
     );
 }
