@@ -23,7 +23,8 @@ public function exampleFunction(){
 
 # Contributing
 
-Author [Dinush Chathurya](https://dinushchathurya.github.io/)
+Author & Contributor [Dinush Chathurya](https://dinushchathurya.github.io/)
+Contributor [Randika Dilshan](https://github.com/Rdilshan)
 
 # License
 
