@@ -14783,6 +14783,5 @@ Nawagamp',
                 'Dikellakanda',
             ),
         ),
-
     );
 }
