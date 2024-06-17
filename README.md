@@ -25,6 +25,7 @@ public function exampleFunction(){
 
 Author & Contributor [Dinush Chathurya](https://dinushchathurya.github.io/) <br>
 Contributor [Randika Dilshan](https://github.com/Rdilshan)
+Contributor [MuksithMRA](https://github.com/MuksithMRA)
 
 # License
 
